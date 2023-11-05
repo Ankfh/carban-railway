@@ -1,0 +1,5312 @@
+{
+  "110000": {
+    "code": "110000",
+    "name": "Beijing",
+    "cities": {
+      "110000": {
+        "code": "110000",
+        "name": "Beijing",
+        "districts": {
+          "110101": "Dongcheng Area",
+          "110102": "Xicheng District",
+          "110105": "Chaoyang District",
+          "110106": "Fengtai District",
+          "110107": "Shijingshan District",
+          "110108": "Haidian District",
+          "110109": "Mentougou District",
+          "110111": "Fangshan District",
+          "110112": "Tongzhou District",
+          "110113": "Shunyi District",
+          "110114": "Changping District",
+          "110115": "Daxing District",
+          "110116": "Huairou District",
+          "110117": "Pinggu District",
+          "110118": "Miyun District",
+          "110119": "Yanqing District"
+        }
+      }
+    }
+  },
+  "120000": {
+    "code": "120000",
+    "name": "Tianjin",
+    "cities": {
+      "120000": {
+        "code": "120000",
+        "name": "Tianjin",
+        "districts": {
+          "120101": "Heping District",
+          "120102": "East District",
+          "120103": "Hexi District",
+          "120104": "Nankai District",
+          "120105": "Hebei District",
+          "120106": "Hongqiao District",
+          "120110": "Dongli District",
+          "120111": "Xiqing District",
+          "120112": "Jinnan District",
+          "120113": "Beichen District",
+          "120114": "Wuqing District",
+          "120115": "Baodi District",
+          "120116": "Binhai New Area",
+          "120117": "Ninghe District",
+          "120118": "Jinghai District",
+          "120119": "Jizhou District"
+        }
+      }
+    }
+  },
+  "130000": {
+    "code": "130000",
+    "name": "Hebei Province",
+    "cities": {
+      "130100": {
+        "code": "130100",
+        "name": "Shijiazhuang City",
+        "districts": {
+          "130102": "Chang'an District",
+          "130104": "Bridge West District",
+          "130105": "Xinhua District",
+          "130107": "Jingxing mining area",
+          "130108": "Yuhua District",
+          "130109": "Gaocheng District",
+          "130110": "Luquan District",
+          "130111": "Luancheng District",
+          "130121": "Jingxing County",
+          "130123": "Zhengding County",
+          "130125": "Xingtang County",
+          "130126": "Lingshou County",
+          "130127": "Gaoyi County",
+          "130128": "Shenze County",
+          "130129": "Zanhuang County",
+          "130130": "Wuji County",
+          "130131": "Pingshan County",
+          "130132": "Yuanshi County",
+          "130133": "Zhao County",
+          "130181": "Xinji City",
+          "130183": "Jinju",
+          "130184": "Xinle City"
+        }
+      },
+      "130200": {
+        "code": "130200",
+        "name": "Tang Shan",
+        "districts": {
+          "130202": "Lunan District",
+          "130203": "Lubei District",
+          "130204": "Guye District",
+          "130205": "Kaiping District",
+          "130207": "Fengnan District",
+          "130208": "Fengrun District",
+          "130209": "Caofeidian District",
+          "130224": "Luannan County",
+          "130225": "Leting County",
+          "130227": "Qianxi County",
+          "130229": "Yutian County",
+          "130281": "Zunhua City",
+          "130283": "Qian'an City",
+          "130284": "Luanzhou"
+        }
+      },
+      "130300": {
+        "code": "130300",
+        "name": "Qinhuangdao",
+        "districts": {
+          "130302": "harbor area",
+          "130303": "Shanhaiguan District",
+          "130304": "Beidaihe District",
+          "130306": "Funing District",
+          "130321": "Qinglong Manchu Autonomous County",
+          "130322": "Changli County",
+          "130324": "Lulong County"
+        }
+      },
+      "130400": {
+        "code": "130400",
+        "name": "Handan",
+        "districts": {
+          "130402": "Hanshan District",
+          "130403": "Congtai District",
+          "130404": "Fuxing District",
+          "130406": "Fengfeng mining area",
+          "130407": "Feixiang District",
+          "130408": "Yongnian District",
+          "130423": "Linzhang County",
+          "130424": "Cheng'an County",
+          "130425": "Daming County",
+          "130426": "She County",
+          "130427": "Ci County",
+          "130430": "Qiu County",
+          "130431": "Jize County",
+          "130432": "Guangping County",
+          "130433": "Guantao County",
+          "130434": "Wei County",
+          "130435": "Quzhou County",
+          "130481": "Wu'an City"
+        }
+      },
+      "130500": {
+        "code": "130500",
+        "name": "Xingtai city",
+        "districts": {
+          "130502": "Qiaodong District",
+          "130503": "Bridge West District",
+          "130521": "Xingtai County",
+          "130522": "Lincheng County",
+          "130523": "Neiqiu County",
+          "130524": "Baixiang County",
+          "130525": "Longyao County",
+          "130526": "Ren County",
+          "130527": "Nanhe County",
+          "130528": "Ningbo County",
+          "130529": "Julu County",
+          "130530": "Xinhe County",
+          "130531": "Guangzong County",
+          "130532": "Pingxiang County",
+          "130533": "Wei County",
+          "130534": "Qinghe County",
+          "130535": "Linxi County",
+          "130581": "Nangong",
+          "130582": "Shahe City"
+        }
+      },
+      "130600": {
+        "code": "130600",
+        "name": "Baoding",
+        "districts": {
+          "130602": "Jingxiu District",
+          "130606": "Lianchi District",
+          "130607": "Mancheng District",
+          "130608": "Qingyuan District",
+          "130609": "Xushui District",
+          "130623": "Laishhui County",
+          "130624": "Fuping County",
+          "130626": "Dingxing County",
+          "130627": "Tang County",
+          "130628": "Gaoyang County",
+          "130629": "Rongcheng County",
+          "130630": "Laiyuan County",
+          "130631": "Wangdu County",
+          "130632": "Anxin County",
+          "130633": "Yi County",
+          "130634": "Quyang County",
+          "130635": "Li County",
+          "130636": "Shunping County",
+          "130637": "Boye County",
+          "130638": "Xiong County",
+          "130681": "Zhuozhou",
+          "130682": "Dingzhou",
+          "130683": "Anguo City",
+          "130684": "Gaobeidian"
+        }
+      },
+      "130700": {
+        "code": "130700",
+        "name": "Zhangjiakou",
+        "districts": {
+          "130702": "Qiaodong District",
+          "130703": "Bridge West District",
+          "130705": "Xuanhua District",
+          "130706": "lower garden area",
+          "130708": "Wanquan District",
+          "130709": "Chongli District",
+          "130722": "Zhangbei County",
+          "130723": "Kangbao County",
+          "130724": "Guyuan County",
+          "130725": "Shangyi County",
+          "130726": "Yu County",
+          "130727": "Yangyuan County",
+          "130728": "Huaian County",
+          "130730": "Huailai County",
+          "130731": "Zhuolu County",
+          "130732": "Chicheng County"
+        }
+      },
+      "130800": {
+        "code": "130800",
+        "name": "Chengdu",
+        "districts": {
+          "130802": "Shuangqiao District",
+          "130803": "Shuangluan District",
+          "130804": "Yingshouyingzi mining area",
+          "130821": "Chengde County",
+          "130822": "Xinglong County",
+          "130824": "Luanping County",
+          "130825": "Longhua County",
+          "130826": "Fengning Manchu Autonomous County",
+          "130827": "Kuancheng Manchu Autonomous County",
+          "130828": "Weichang Manchu and Mongolian Autonomous County",
+          "130881": "Hiraizumi"
+        }
+      },
+      "130900": {
+        "code": "130900",
+        "name": "Cangzhou",
+        "districts": {
+          "130902": "Xinhua District",
+          "130903": "canal district",
+          "130921": "Cang County",
+          "130922": "Qing County",
+          "130923": "Dongguan County",
+          "130924": "Haixing County",
+          "130925": "Yanshan County",
+          "130926": "Suning County",
+          "130927": "Nanpi County",
+          "130928": "Wuqiao County",
+          "130929": "Xian County",
+          "130930": "Mengcun Hui Autonomous County",
+          "130981": "Botou",
+          "130982": "Renqiu",
+          "130983": "Huanghua City",
+          "130984": "Hejian City"
+        }
+      },
+      "131000": {
+        "code": "131000",
+        "name": "Langfang City",
+        "districts": {
+          "131002": "Anji District",
+          "131003": "Guangyang District",
+          "131022": "Gu'an County",
+          "131023": "Yongqing County",
+          "131024": "Xianghe County",
+          "131025": "Dacheng County",
+          "131026": "Wen'an County",
+          "131028": "Dachang Hui Autonomous County",
+          "131081": "Bazhou",
+          "131082": "Sanhe City"
+        }
+      },
+      "131100": {
+        "code": "131100",
+        "name": "Hengshui",
+        "districts": {
+          "131102": "Taocheng District",
+          "131103": "Jizhou District",
+          "131121": "Zaoqiang County",
+          "131122": "Wuyi County",
+          "131123": "Wuqiang County",
+          "131124": "Raoyang County",
+          "131125": "Anping County",
+          "131126": "Gucheng County",
+          "131127": "Jing County",
+          "131128": "Fucheng County",
+          "131182": "Shenzhen"
+        }
+      }
+    }
+  },
+  "140000": {
+    "code": "140000",
+    "name": "Shanxi Province",
+    "cities": {
+      "140100": {
+        "code": "140100",
+        "name": "Taiyuan City",
+        "districts": {
+          "140105": "shop area",
+          "140106": "Yingze District",
+          "140107": "Xinghualing District",
+          "140108": "Jiancaoping District",
+          "140109": "Wan Bolin District",
+          "140110": "Jinyuan District",
+          "140121": "Qingxu County",
+          "140122": "Yangqu County",
+          "140123": "Loufan County",
+          "140181": "Gujiao City"
+        }
+      },
+      "140200": {
+        "code": "140200",
+        "name": "Datong",
+        "districts": {
+          "140212": "Xinrong District",
+          "140213": "Pingcheng District",
+          "140214": "Yungang District",
+          "140215": "Yunzhou District",
+          "140221": "Yanggao County",
+          "140222": "Tianjin County",
+          "140223": "Guangling County",
+          "140224": "Lingqiu County",
+          "140225": "Hunyuan County",
+          "140226": "Zuoyun County"
+        }
+      },
+      "140300": {
+        "code": "140300",
+        "name": "Yangquan City",
+        "districts": {
+          "140302": "urban area",
+          "140303": "mining area",
+          "140311": "suburbs",
+          "140321": "Pingding County",
+          "140322": "Yu County"
+        }
+      },
+      "140400": {
+        "code": "140400",
+        "name": "Changzhi City",
+        "districts": {
+          "140403": "Luzhou District",
+          "140404": "Shangdang District",
+          "140405": "Tunliu District",
+          "140406": "Lucheng District",
+          "140423": "Xiangyuan County",
+          "140425": "Pingshun County",
+          "140426": "Licheng County",
+          "140427": "Huguan County",
+          "140428": "oldest son county",
+          "140429": "Wuxiang County",
+          "140430": "Qin County",
+          "140431": "Qinyuan County"
+        }
+      },
+      "140500": {
+        "code": "140500",
+        "name": "Jincheng City",
+        "districts": {
+          "140502": "urban area",
+          "140521": "Qinshui County",
+          "140522": "Yangcheng County",
+          "140524": "Lingchuan County",
+          "140525": "Zezhou County",
+          "140581": "Gaoping City"
+        }
+      },
+      "140600": {
+        "code": "140600",
+        "name": "Shuozhou",
+        "districts": {
+          "140602": "Shuocheng District",
+          "140603": "Pinglu District",
+          "140621": "Sanyin County",
+          "140622": "Ying County",
+          "140623": "Youyu County",
+          "140681": "Huairen City"
+        }
+      },
+      "140700": {
+        "code": "140700",
+        "name": "Jinzhong",
+        "districts": {
+          "140702": "Yuci District",
+          "140721": "Yushe County",
+          "140722": "Zuoquan County",
+          "140723": "Heshun County",
+          "140724": "Xiyang County",
+          "140725": "Shouyang County",
+          "140726": "Taigu County",
+          "140727": "Qi County",
+          "140728": "Pingyao County",
+          "140729": "Lingshi County",
+          "140781": "Jiexiu City"
+        }
+      },
+      "140800": {
+        "code": "140800",
+        "name": "Yuncheng",
+        "districts": {
+          "140802": "Salt Lake District",
+          "140821": "Linyi County",
+          "140822": "Wanrong County",
+          "140823": "Wenxi County",
+          "140824": "Jishan County",
+          "140825": "Xinjiang County",
+          "140826": "Jiang County",
+          "140827": "Yuanqu County",
+          "140828": "Xia County",
+          "140829": "Pinglu County",
+          "140830": "Ruicheng County",
+          "140881": "Yongji City",
+          "140882": "Hejin City"
+        }
+      },
+      "140900": {
+        "code": "140900",
+        "name": "Xinzhou",
+        "districts": {
+          "140902": "Xinfu District",
+          "140921": "Dingxiang County",
+          "140922": "Wutai County",
+          "140923": "Dai County",
+          "140924": "Fanshi County",
+          "140925": "Ningwu County",
+          "140926": "Jingle County",
+          "140927": "Shenchi County",
+          "140928": "Wuzhai County",
+          "140929": "Kelan County",
+          "140930": "Hequ County",
+          "140931": "Baode County",
+          "140932": "Pianguan County",
+          "140981": "Yuanping City"
+        }
+      },
+      "141000": {
+        "code": "141000",
+        "name": "Linfen City",
+        "districts": {
+          "141002": "Yaodu District",
+          "141021": "Quwo County",
+          "141022": "Yicheng County",
+          "141023": "Xiangfen County",
+          "141024": "Hongdong County",
+          "141025": "Guxian",
+          "141026": "Anze County",
+          "141027": "Fushan County",
+          "141028": "Ji County",
+          "141029": "Xiangning County",
+          "141030": "Daning County",
+          "141031": "Xi County",
+          "141032": "Yonghe County",
+          "141033": "Pu County",
+          "141034": "Fenxi County",
+          "141081": "Houma",
+          "141082": "Huozhou"
+        }
+      },
+      "141100": {
+        "code": "141100",
+        "name": "Luliang City",
+        "districts": {
+          "141102": "Lishi District",
+          "141121": "Wenshui County",
+          "141122": "Jiaocheng County",
+          "141123": "Xing County",
+          "141124": "Lin County",
+          "141125": "Liulin County",
+          "141126": "Shilou County",
+          "141127": "Lan County",
+          "141128": "Fangshan County",
+          "141129": "Zhongyang County",
+          "141130": "Jiaokou County",
+          "141181": "Xiaoyi City",
+          "141182": "Fenyang City"
+        }
+      }
+    }
+  },
+  "150000": {
+    "code": "150000",
+    "name": "Inner Mongolia Autonomous Region",
+    "cities": {
+      "150100": {
+        "code": "150100",
+        "name": "Hohhot",
+        "districts": {
+          "150102": "New town area",
+          "150103": "Muslim area",
+          "150104": "Yuquan District",
+          "150105": "SaiHan District",
+          "150121": "tumed left banner",
+          "150122": "Tuoketuo County",
+          "150123": "Holinger County",
+          "150124": "Qingshuihe County",
+          "150125": "Wuchuan County"
+        }
+      },
+      "150200": {
+        "code": "150200",
+        "name": "Baotou",
+        "districts": {
+          "150202": "Donghe District",
+          "150203": "Kundulun District",
+          "150204": "Qingshan District",
+          "150205": "Shiguai District",
+          "150206": "Baiyun Obo Mining Area",
+          "150207": "Jiuyuan District",
+          "150221": "tumed right banner",
+          "150222": "Guyang County",
+          "150223": "Darhan Muming'an United Banner"
+        }
+      },
+      "150300": {
+        "code": "150300",
+        "name": "Wuhai City",
+        "districts": {
+          "150302": "Bay Area",
+          "150303": "Hainan District",
+          "150304": "Uda District"
+        }
+      },
+      "150400": {
+        "code": "150400",
+        "name": "Chifeng",
+        "districts": {
+          "150402": "Hongshan District",
+          "150403": "Yuanbao District",
+          "150404": "Songshan District",
+          "150421": "Arukorqin Banner",
+          "150422": "Balin Left Banner",
+          "150423": "Bahrain Right Banner",
+          "150424": "Linxi County",
+          "150425": "Hexigten Banner",
+          "150426": "Ongniud Banner",
+          "150428": "Harqin Banner",
+          "150429": "Ningcheng County",
+          "150430": "Aohan Banner"
+        }
+      },
+      "150500": {
+        "code": "150500",
+        "name": "Tongliao",
+        "districts": {
+          "150502": "Horqin District",
+          "150521": "Horqin Left Middle Banner",
+          "150522": "Horqin Left Wing Rear Banner",
+          "150523": "Kailu County",
+          "150524": "Kulun Banner",
+          "150525": "Naiman Banner",
+          "150526": "Zhalut Banner",
+          "150581": "Holingol City"
+        }
+      },
+      "150600": {
+        "code": "150600",
+        "name": "Ordos City",
+        "districts": {
+          "150602": "Dongsheng District",
+          "150603": "Kangbashi District",
+          "150621": "Dalat Banner",
+          "150622": "Jungar Banner",
+          "150623": "Etuoke Front Banner",
+          "150624": "Etuoke Banner",
+          "150625": "Hangjin Banner",
+          "150626": "Wushen Banner",
+          "150627": "Yijin Horo Banner"
+        }
+      },
+      "150700": {
+        "code": "150700",
+        "name": "Hulunbeir",
+        "districts": {
+          "150702": "Hailar District",
+          "150703": "Zhalainuoer District",
+          "150721": "Arong Banner",
+          "150722": "Moli Dawa Daur Autonomous Banner",
+          "150723": "Oroqen Autonomous Banner",
+          "150724": "Ewenki Autonomous Banner",
+          "150725": "Chen Baerhu Banner",
+          "150726": "New Barhu Left Banner",
+          "150727": "New Balhu Right Banner",
+          "150781": "Manzhouli City",
+          "150782": "Yakeshi",
+          "150783": "Zhalantun",
+          "150784": "Erguna City",
+          "150785": "Genhe City"
+        }
+      },
+      "150800": {
+        "code": "150800",
+        "name": "Bayannur City",
+        "districts": {
+          "150802": "Linhe District",
+          "150821": "Wuyuan County",
+          "150822": "Dengkou County",
+          "150823": "Urad Front Banner",
+          "150824": "Urad Middle Banner",
+          "150825": "Urad rear flag",
+          "150826": "Hangjin Rear Banner"
+        }
+      },
+      "150900": {
+        "code": "150900",
+        "name": "Wulanchabu",
+        "districts": {
+          "150902": "Jining District",
+          "150921": "Zhuozi County",
+          "150922": "Huade County",
+          "150923": "Shangdu County",
+          "150924": "Xinghe County",
+          "150925": "Liangcheng County",
+          "150926": "Chahar Right Front Banner",
+          "150927": "Chahar Right Center Banner",
+          "150928": "Chahar Right Wing Rear Banner",
+          "150929": "Siziwang Banner",
+          "150981": "Fengzhen"
+        }
+      },
+      "152200": {
+        "code": "152200",
+        "name": "Xing'an League",
+        "districts": {
+          "152201": "Ulanhot",
+          "152202": "Aershan City",
+          "152221": "Horqin Right Front Banner",
+          "152222": "Horqin Right Wing Middle Banner",
+          "152223": "Zhalaite Banner",
+          "152224": "Tuquan County"
+        }
+      },
+      "152500": {
+        "code": "152500",
+        "name": "Xilin Gol League",
+        "districts": {
+          "152501": "Erenhot",
+          "152502": "Xilinhot",
+          "152522": "Abaga Banner",
+          "152523": "Sunit Left Banner",
+          "152524": "Sunit Right Banner",
+          "152525": "East Ujumqin Banner",
+          "152526": "Xiwuzhumuqin Banner",
+          "152527": "Taipusi Banner",
+          "152528": "Bordered yellow flag",
+          "152529": "Inlaid white flag",
+          "152530": "Zhenglan Qi",
+          "152531": "Toronto County"
+        }
+      },
+      "152900": {
+        "code": "152900",
+        "name": "Alxa League",
+        "districts": {
+          "152921": "Alxa Left Banner",
+          "152922": "Alxa Right Banner",
+          "152923": "Ejin Banner"
+        }
+      }
+    }
+  },
+  "210000": {
+    "code": "210000",
+    "name": "Liaoning Province",
+    "cities": {
+      "210100": {
+        "code": "210100",
+        "name": "Shenyang city",
+        "districts": {
+          "210102": "Heping District",
+          "210103": "Shenhe District",
+          "210104": "Big East",
+          "210105": "Huanggu District",
+          "210106": "Tiexi District",
+          "210111": "Sujiatun District",
+          "210112": "Hunnan District",
+          "210113": "Shenbei New District",
+          "210114": "Yuhong District",
+          "210115": "Liaozhong District",
+          "210123": "Kangping County",
+          "210124": "Faku County",
+          "210181": "Xinmin City"
+        }
+      },
+      "210200": {
+        "code": "210200",
+        "name": "Dalian",
+        "districts": {
+          "210202": "Zhongshan Area",
+          "210203": "Xigang District",
+          "210204": "s",
+          "210211": "Ganjingzi District",
+          "210212": "Lushunkou District",
+          "210213": "Jinzhou District",
+          "210214": "Pulandian District",
+          "210224": "Changhai County",
+          "210281": "Wafangdian",
+          "210283": "Zhuanghe"
+        }
+      },
+      "210300": {
+        "code": "210300",
+        "name": "Anshan City",
+        "districts": {
+          "210302": "Tiedong District",
+          "210303": "Tiexi District",
+          "210304": "Lishan District",
+          "210311": "Qianshan District",
+          "210321": "Tai'an County",
+          "210323": "Xiuyan Manchu Autonomous County",
+          "210381": "Haicheng City"
+        }
+      },
+      "210400": {
+        "code": "210400",
+        "name": "Fushun City",
+        "districts": {
+          "210402": "Xinfu District",
+          "210403": "Dongzhou District",
+          "210404": "Wanghua District",
+          "210411": "Shuncheng District",
+          "210421": "Fushun County",
+          "210422": "Xinbin Manchu Autonomous County",
+          "210423": "Qingyuan Manchu Autonomous County"
+        }
+      },
+      "210500": {
+        "code": "210500",
+        "name": "Benxi",
+        "districts": {
+          "210502": "Pingshan District",
+          "210503": "Xihu District",
+          "210504": "Mingshan District",
+          "210505": "Nanfen District",
+          "210521": "Benxi Manchu Autonomous County",
+          "210522": "Huanren Manchu Autonomous County"
+        }
+      },
+      "210600": {
+        "code": "210600",
+        "name": "Dandong",
+        "districts": {
+          "210602": "Yuanbao District",
+          "210603": "revitalization area",
+          "210604": "Zhen'an District",
+          "210624": "Kuandian Manchu Autonomous County",
+          "210681": "Donggang City",
+          "210682": "Fengcheng"
+        }
+      },
+      "210700": {
+        "code": "210700",
+        "name": "Jinzhou City",
+        "districts": {
+          "210702": "Guta District",
+          "210703": "Linghe District",
+          "210711": "Taihe District",
+          "210726": "Heishan County",
+          "210727": "Yi County",
+          "210781": "Linghai City",
+          "210782": "Beizhen City"
+        }
+      },
+      "210800": {
+        "code": "210800",
+        "name": "Yingkou",
+        "districts": {
+          "210802": "Station area",
+          "210803": "West District",
+          "210804": "Bayuquan District",
+          "210811": "old frontier",
+          "210881": "Gaizhou",
+          "210882": "Dashiqiao"
+        }
+      },
+      "210900": {
+        "code": "210900",
+        "name": "Fuxin City",
+        "districts": {
+          "210902": "Haizhou District",
+          "210903": "Xinqiu District",
+          "210904": "Taiping District",
+          "210905": "Qinghemen District",
+          "210911": "Xihe District",
+          "210921": "Fuxin Mongolian Autonomous County",
+          "210922": "Zhangwu County"
+        }
+      },
+      "211000": {
+        "code": "211000",
+        "name": "Liaoyang City",
+        "districts": {
+          "211002": "Baita District",
+          "211003": "Wensheng District",
+          "211004": "grand area",
+          "211005": "Gongchangling District",
+          "211011": "Taizihe District",
+          "211021": "Liaoyang County",
+          "211081": "Beacon City"
+        }
+      },
+      "211100": {
+        "code": "211100",
+        "name": "Panjin",
+        "districts": {
+          "211102": "Shuangtaizi District",
+          "211103": "Xinglongtai District",
+          "211104": "Dawa District",
+          "211122": "Panshan County"
+        }
+      },
+      "211200": {
+        "code": "211200",
+        "name": "Tieling City",
+        "districts": {
+          "211202": "Yinzhou District",
+          "211204": "Qinghe District",
+          "211221": "Tieling County",
+          "211223": "Xifeng County",
+          "211224": "Changtu County",
+          "211281": "Diaobingshan City",
+          "211282": "Kaiyuan City"
+        }
+      },
+      "211300": {
+        "code": "211300",
+        "name": "Chaoyang City",
+        "districts": {
+          "211302": "Shuangta District",
+          "211303": "Longcheng District",
+          "211321": "Chaoyang County",
+          "211322": "Jianping County",
+          "211324": "Harqin Zuoyi Mongolian Autonomous County",
+          "211381": "Beipiao",
+          "211382": "Lingyuan City"
+        }
+      },
+      "211400": {
+        "code": "211400",
+        "name": "Huludao City",
+        "districts": {
+          "211402": "Lianshan District",
+          "211403": "Longgang District",
+          "211404": "Nanpiao District",
+          "211421": "Suizhong County",
+          "211422": "Jianchang County",
+          "211481": "Xingcheng City"
+        }
+      }
+    }
+  },
+  "220000": {
+    "code": "220000",
+    "name": "Jilin Province",
+    "cities": {
+      "220100": {
+        "code": "220100",
+        "name": "Changchun City",
+        "districts": {
+          "220102": "Nanguan District",
+          "220103": "Kuancheng District",
+          "220104": "Chaoyang District",
+          "220105": "Erdao District",
+          "220106": "green area",
+          "220112": "Shuangyang District",
+          "220113": "Jiutai District",
+          "220122": "Nong'an County",
+          "220182": "Elm City",
+          "220183": "Dehui City"
+        }
+      },
+      "220200": {
+        "code": "220200",
+        "name": "Jilin City",
+        "districts": {
+          "220202": "Changyi District",
+          "220203": "Longtan District",
+          "220204": "boat camp area",
+          "220211": "plump area",
+          "220221": "Yongji County",
+          "220281": "Jiaohe City",
+          "220282": "Huadian City",
+          "220283": "Shulan City",
+          "220284": "panshi city"
+        }
+      },
+      "220300": {
+        "code": "220300",
+        "name": "Siping City",
+        "districts": {
+          "220302": "Tiexi District",
+          "220303": "Tiedong District",
+          "220322": "Lishu County",
+          "220323": "Yitong Manchu Autonomous County",
+          "220381": "Gongzhuling City",
+          "220382": "Shuangliao"
+        }
+      },
+      "220400": {
+        "code": "220400",
+        "name": "Liaoyuan City",
+        "districts": {
+          "220402": "Yongsan District",
+          "220403": "Xi'an District",
+          "220421": "Dongfeng County",
+          "220422": "Dongliao County"
+        }
+      },
+      "220500": {
+        "code": "220500",
+        "name": "Tonghua City",
+        "districts": {
+          "220502": "Dongchang District",
+          "220503": "Erdaojiang District",
+          "220521": "Tonghua County",
+          "220523": "Huinan County",
+          "220524": "Liuhe County",
+          "220581": "Meihekou City",
+          "220582": "Ji'an City"
+        }
+      },
+      "220600": {
+        "code": "220600",
+        "name": "Baishan City",
+        "districts": {
+          "220602": "Hunjiang District",
+          "220605": "Jiangyuan District",
+          "220621": "Fusong County",
+          "220622": "Jingyu County",
+          "220623": "Changbai Korean Autonomous County",
+          "220681": "Linjiang City"
+        }
+      },
+      "220700": {
+        "code": "220700",
+        "name": "Songyuan City",
+        "districts": {
+          "220702": "Ningjiang District",
+          "220721": "Former Guoerluosi Mongolian Autonomous County",
+          "220722": "Changling County",
+          "220723": "Qian'an County",
+          "220781": "Buyeo"
+        }
+      },
+      "220800": {
+        "code": "220800",
+        "name": "Baicheng",
+        "districts": {
+          "220802": "Taobei District",
+          "220821": "Zhenlai County",
+          "220822": "Tongyu County",
+          "220881": "Taonan City",
+          "220882": "Da'an City"
+        }
+      },
+      "222400": {
+        "code": "222400",
+        "name": "Yanbian Korean Autonomous Prefecture",
+        "districts": {
+          "222401": "Yanji City",
+          "222402": "Tumen City",
+          "222403": "Dunhua City",
+          "222404": "Hunchun",
+          "222405": "Longjing City",
+          "222406": "Helong City",
+          "222424": "Wangqing County",
+          "222426": "Antu County"
+        }
+      }
+    }
+  },
+  "230000": {
+    "code": "230000",
+    "name": "Heilongjiang Province",
+    "cities": {
+      "230100": {
+        "code": "230100",
+        "name": "Harbin City",
+        "districts": {
+          "230102": "Daoli District",
+          "230103": "Nangang District",
+          "230104": "Outer District",
+          "230108": "bungalow area",
+          "230109": "Songbei District",
+          "230110": "Xiangfang District",
+          "230111": "Hulan District",
+          "230112": "Acheng District",
+          "230113": "Shuangcheng District",
+          "230123": "Yilan County",
+          "230124": "Fangzheng County",
+          "230125": "Bin County",
+          "230126": "Bayan County",
+          "230127": "Mulan County",
+          "230128": "Tonghe County",
+          "230129": "Yanshou County",
+          "230183": "Shangzhi City",
+          "230184": "Wuchang City"
+        }
+      },
+      "230200": {
+        "code": "230200",
+        "name": "Qiqihar City",
+        "districts": {
+          "230202": "Longsha District",
+          "230203": "Jianhua District",
+          "230204": "Tiefeng District",
+          "230205": "Ang'ang Creek District",
+          "230206": "Fularki District",
+          "230207": "nianzi mountain area",
+          "230208": "Melis Daur District",
+          "230221": "Longjiang County",
+          "230223": "Yi'an County",
+          "230224": "Tailai County",
+          "230225": "Gannan County",
+          "230227": "Fuyu County",
+          "230229": "Keshan County",
+          "230230": "Kedong County",
+          "230231": "Baiquan County",
+          "230281": "Nehe City"
+        }
+      },
+      "230300": {
+        "code": "230300",
+        "name": "Jixi City",
+        "districts": {
+          "230302": "Cockscomb District",
+          "230303": "Hengshan District",
+          "230304": "Drop Road District",
+          "230305": "Lishu District",
+          "230306": "Chengzihe District",
+          "230307": "Mashan District",
+          "230321": "Jidong County",
+          "230381": "Hulin City",
+          "230382": "Mishan City"
+        }
+      },
+      "230400": {
+        "code": "230400",
+        "name": "Hegang City",
+        "districts": {
+          "230402": "Xiangyang District",
+          "230403": "Industrial and agricultural area",
+          "230404": "Nanshan District",
+          "230405": "Xing'an District",
+          "230406": "Dongshan District",
+          "230407": "Xingshan District",
+          "230421": "Luobei County",
+          "230422": "Suibin County"
+        }
+      },
+      "230500": {
+        "code": "230500",
+        "name": "Shuangyashan City",
+        "districts": {
+          "230502": "Jianshan District",
+          "230503": "Lingdong District",
+          "230505": "Sifangtai District",
+          "230506": "Baoshan District",
+          "230521": "Jixian County",
+          "230522": "Youyi County",
+          "230523": "Baoqing County",
+          "230524": "Raohe County"
+        }
+      },
+      "230600": {
+        "code": "230600",
+        "name": "Daqing City",
+        "districts": {
+          "230602": "Saltu District",
+          "230603": "Longfeng District",
+          "230604": "Ranghu Road District",
+          "230605": "Honggang District",
+          "230606": "Datong District",
+          "230621": "Zhaozhou County",
+          "230622": "Zhaoyuan County",
+          "230623": "Lindian County",
+          "230624": "Duerbot Mongolian Autonomous County"
+        }
+      },
+      "230700": {
+        "code": "230700",
+        "name": "Yichun",
+        "districts": {
+          "230702": "Yichun District",
+          "230703": "Nancha District",
+          "230704": "friendly zone",
+          "230705": "Xilin District",
+          "230706": "Cuiluan District",
+          "230707": "Xinqing District",
+          "230708": "Meixi District",
+          "230709": "Jinshantun District",
+          "230710": "Wuying District",
+          "230711": "Wuma River District",
+          "230712": "Tangwanghe District",
+          "230713": "Dailing District",
+          "230714": "Uy Ridge District",
+          "230715": "Red Star District",
+          "230716": "Shangganling District",
+          "230722": "Jiayin County",
+          "230781": "iron city"
+        }
+      },
+      "230800": {
+        "code": "230800",
+        "name": "Jiamusi City",
+        "districts": {
+          "230803": "Xiangyang District",
+          "230804": "forward area",
+          "230805": "Dongfeng District",
+          "230811": "suburbs",
+          "230822": "Huanan County",
+          "230826": "Huachuan County",
+          "230828": "Tangyuan County",
+          "230881": "Tongjiang City",
+          "230882": "Fujin",
+          "230883": "Fuyuan City"
+        }
+      },
+      "230900": {
+        "code": "230900",
+        "name": "Qitaihe",
+        "districts": {
+          "230902": "Xinxing District",
+          "230903": "Taoshan District",
+          "230904": "Eggplant River District",
+          "230921": "Burleigh County"
+        }
+      },
+      "231000": {
+        "code": "231000",
+        "name": "Mudanjiang City",
+        "districts": {
+          "231002": "Dong'an District",
+          "231003": "Yangming District",
+          "231004": "Aimin District",
+          "231005": "Xi'an District",
+          "231025": "Linkou County",
+          "231081": "Suifenhe",
+          "231083": "Hailin City",
+          "231084": "Ning'an",
+          "231085": "Mulen",
+          "231086": "Dongning"
+        }
+      },
+      "231100": {
+        "code": "231100",
+        "name": "Heihe City",
+        "districts": {
+          "231102": "Aihui District",
+          "231121": "Nenjiang County",
+          "231123": "Sunk County",
+          "231124": "Sun Wu County",
+          "231181": "Beian",
+          "231182": "Wudalianchi City"
+        }
+      },
+      "231200": {
+        "code": "231200",
+        "name": "Suihua City",
+        "districts": {
+          "231202": "North Forest District",
+          "231221": "Wangkui County",
+          "231222": "Lanxi County",
+          "231223": "Qinggang County",
+          "231224": "Qing'an County",
+          "231225": "Mingshui County",
+          "231226": "Suiling County",
+          "231281": "Adachi",
+          "231282": "Zhaodong",
+          "231283": "Helen"
+        }
+      },
+      "232700": {
+        "code": "232700",
+        "name": "Greater Khingan Mountains",
+        "districts": {
+          "232701": "Mohe City",
+          "232721": "Huma County",
+          "232722": "Tahe County"
+        }
+      }
+    }
+  },
+  "310000": {
+    "code": "310000",
+    "name": "Shanghai",
+    "cities": {
+      "310000": {
+        "code": "310000",
+        "name": "Shanghai",
+        "districts": {
+          "310101": "Huangpu District",
+          "310104": "Xuhui District",
+          "310105": "Changning District",
+          "310106": "Jing'an District",
+          "310107": "Putuo District",
+          "310109": "Hongkou District",
+          "310110": "Yangpu District",
+          "310112": "Minhang District",
+          "310113": "Baoshan District",
+          "310114": "Jiading District",
+          "310115": "Pudong New Area",
+          "310116": "Jinshan District",
+          "310117": "Songjiang District",
+          "310118": "Qingpu District",
+          "310120": "Fengxian District",
+          "310151": "Chongming District"
+        }
+      }
+    }
+  },
+  "320000": {
+    "code": "320000",
+    "name": "Jiangsu Province",
+    "cities": {
+      "320100": {
+        "code": "320100",
+        "name": "Nanjing",
+        "districts": {
+          "320102": "Xuanwu District",
+          "320104": "Qinhuai District",
+          "320105": "Jianye District",
+          "320106": "Gulou District",
+          "320111": "Pukou District",
+          "320113": "Qixia District",
+          "320114": "Yuhuatai District",
+          "320115": "Jiangning District",
+          "320116": "Liuhe District",
+          "320117": "Lishui District",
+          "320118": "Gaochun District"
+        }
+      },
+      "320200": {
+        "code": "320200",
+        "name": "Wuxi",
+        "districts": {
+          "320205": "Xishan District",
+          "320206": "Huishan District",
+          "320211": "Lake District",
+          "320213": "Liangxi District",
+          "320214": "Xinwu District",
+          "320281": "Jiangyin",
+          "320282": "Yixing City"
+        }
+      },
+      "320300": {
+        "code": "320300",
+        "name": "Xuzhou",
+        "districts": {
+          "320302": "Gulou District",
+          "320303": "Yunlong District",
+          "320305": "Jiawang District",
+          "320311": "Quanshan District",
+          "320312": "Copper District",
+          "320321": "Feng County",
+          "320322": "Pei County",
+          "320324": "Suining County",
+          "320381": "Xinyi City",
+          "320382": "Pizhou"
+        }
+      },
+      "320400": {
+        "code": "320400",
+        "name": "Changzhou City",
+        "districts": {
+          "320402": "Tianning District",
+          "320404": "Bell Tower District",
+          "320411": "Xinbei District",
+          "320412": "Wujin District",
+          "320413": "Jintan District",
+          "320481": "Liyang City"
+        }
+      },
+      "320500": {
+        "code": "320500",
+        "name": "Suzhou City",
+        "districts": {
+          "320505": "Tiger Hill District",
+          "320506": "Wuzhong District",
+          "320507": "Xiangcheng District",
+          "320508": "Suzhou District",
+          "320509": "Wujiang District",
+          "320581": "Changshu",
+          "320582": "Zhangjiagang",
+          "320583": "Kunshan",
+          "320585": "Taicang"
+        }
+      },
+      "320600": {
+        "code": "320600",
+        "name": "Nantong city",
+        "districts": {
+          "320602": "Chongchuan District",
+          "320611": "Gangzha District",
+          "320612": "Tongzhou District",
+          "320623": "Rudong County",
+          "320681": "Qidong",
+          "320682": "Rugao City",
+          "320684": "Haimen",
+          "320685": "Hai'an City"
+        }
+      },
+      "320700": {
+        "code": "320700",
+        "name": "Lianyungang",
+        "districts": {
+          "320703": "Lianyun District",
+          "320706": "Haizhou District",
+          "320707": "Ganyu District",
+          "320722": "Donghai County",
+          "320723": "Guanyun County",
+          "320724": "Guannan County"
+        }
+      },
+      "320800": {
+        "code": "320800",
+        "name": "Huaian city",
+        "districts": {
+          "320803": "Huaian District",
+          "320804": "Huaiyin District",
+          "320812": "Qingjiang Pu District",
+          "320813": "Hongze District",
+          "320826": "Lianshui County",
+          "320830": "Xuyi County",
+          "320831": "Jinhu County"
+        }
+      },
+      "320900": {
+        "code": "320900",
+        "name": "Yancheng City",
+        "districts": {
+          "320902": "Pavilion Lake District",
+          "320903": "Yandu District",
+          "320904": "Dafeng District",
+          "320921": "Xiangshui County",
+          "320922": "Binhai County",
+          "320923": "Funing County",
+          "320924": "Sheyang County",
+          "320925": "Jianhu County",
+          "320981": "Dongtai City"
+        }
+      },
+      "321000": {
+        "code": "321000",
+        "name": "Yangzhou",
+        "districts": {
+          "321002": "Guangling District",
+          "321003": "Hanjiang District",
+          "321012": "Jiangdu District",
+          "321023": "Baoying County",
+          "321081": "Yizheng City",
+          "321084": "Gaoyou City"
+        }
+      },
+      "321100": {
+        "code": "321100",
+        "name": "Zhenjiang",
+        "districts": {
+          "321102": "Jingkou District",
+          "321111": "Runzhou District",
+          "321112": "Dantu District",
+          "321181": "Danyang",
+          "321182": "Yangzhong",
+          "321183": "Jurong City"
+        }
+      },
+      "321200": {
+        "code": "321200",
+        "name": "Taizhou",
+        "districts": {
+          "321202": "Hailing District",
+          "321203": "Gaogang District",
+          "321204": "Jiangyan District",
+          "321281": "Xinghua City",
+          "321282": "Jingjiang City",
+          "321283": "Taixing City"
+        }
+      },
+      "321300": {
+        "code": "321300",
+        "name": "Suqian",
+        "districts": {
+          "321302": "Sucheng District",
+          "321311": "Suyu District",
+          "321322": "Shuyang County",
+          "321323": "Siyang County",
+          "321324": "Sihong County"
+        }
+      }
+    }
+  },
+  "330000": {
+    "code": "330000",
+    "name": "Zhejiang Province",
+    "cities": {
+      "330100": {
+        "code": "330100",
+        "name": "hangzhou city",
+        "districts": {
+          "330102": "Uptown",
+          "330103": "Downtown area",
+          "330104": "Jianggan District",
+          "330105": "Gongshu District",
+          "330106": "West Lake District",
+          "330108": "Binjiang District",
+          "330109": "Xiaoshan Strict",
+          "330110": "Yuhang District",
+          "330111": "Fuyang District",
+          "330112": "Lin'an District",
+          "330122": "Tonglu County",
+          "330127": "Chun'an County",
+          "330182": "Jiande City"
+        }
+      },
+      "330200": {
+        "code": "330200",
+        "name": "Ningbo",
+        "districts": {
+          "330203": "Haishu District",
+          "330205": "Jiangbei District",
+          "330206": "Beilun District",
+          "330211": "Zhenhai District",
+          "330212": "Yinzhou District",
+          "330213": "Fenghua District",
+          "330225": "Xiangshan County",
+          "330226": "Ninghai County",
+          "330281": "Yuyao City",
+          "330282": "Cixi City"
+        }
+      },
+      "330300": {
+        "code": "330300",
+        "name": "Wenzhou city",
+        "districts": {
+          "330302": "Lucheng District",
+          "330303": "Longwan District",
+          "330304": "Ouhai District",
+          "330305": "Dongtou District",
+          "330324": "Yongjia County",
+          "330326": "Pingyang County",
+          "330327": "Cangnan County",
+          "330328": "Wencheng County",
+          "330329": "Taishun County",
+          "330381": "Ryan City",
+          "330382": "Yueqing"
+        }
+      },
+      "330400": {
+        "code": "330400",
+        "name": "Jiaxing",
+        "districts": {
+          "330402": "South Lake District",
+          "330411": "Xiuzhou District",
+          "330421": "Jiashan County",
+          "330424": "Haiyan County",
+          "330481": "Haining",
+          "330482": "Pinghu City",
+          "330483": "Tongxiang"
+        }
+      },
+      "330500": {
+        "code": "330500",
+        "name": "Huzhou",
+        "districts": {
+          "330502": "Wuxing District",
+          "330503": "Nanxun District",
+          "330521": "Deqing County",
+          "330522": "Changxing County",
+          "330523": "Anji County"
+        }
+      },
+      "330600": {
+        "code": "330600",
+        "name": "Shaoxing",
+        "districts": {
+          "330602": "Yuecheng District",
+          "330603": "Keqiao District",
+          "330604": "Shangyu District",
+          "330624": "Xinchang County",
+          "330681": "Zhuji",
+          "330683": "Shengzhou"
+        }
+      },
+      "330700": {
+        "code": "330700",
+        "name": "Jinhua City",
+        "districts": {
+          "330702": "Wucheng District",
+          "330703": "Golden East District",
+          "330723": "Wuyi County",
+          "330726": "Pujiang County",
+          "330727": "Pan'an County",
+          "330781": "Lanxi City",
+          "330782": "Yiwu City",
+          "330783": "Dongyang City",
+          "330784": "Yongkang"
+        }
+      },
+      "330800": {
+        "code": "330800",
+        "name": "Quzhou City",
+        "districts": {
+          "330802": "Kecheng District",
+          "330803": "Qujiang District",
+          "330822": "Changshan County",
+          "330824": "Kaihua County",
+          "330825": "Longyou County",
+          "330881": "Jiangshan City"
+        }
+      },
+      "330900": {
+        "code": "330900",
+        "name": "Zhoushan City",
+        "districts": {
+          "330902": "Dinghai District",
+          "330903": "Putuo District",
+          "330921": "Daishan County",
+          "330922": "Shengsi County"
+        }
+      },
+      "331000": {
+        "code": "331000",
+        "name": "Taizhou",
+        "districts": {
+          "331002": "Jiaojiang District",
+          "331003": "Huangyan District",
+          "331004": "Luqiao District",
+          "331022": "Sanmen County",
+          "331023": "Tiantai County",
+          "331024": "Xianju County",
+          "331081": "Wenling",
+          "331082": "Linhai City",
+          "331083": "Yuhuan City"
+        }
+      },
+      "331100": {
+        "code": "331100",
+        "name": "Lishui City",
+        "districts": {
+          "331102": "Liandu District",
+          "331121": "Qingtian County",
+          "331122": "Jinyun County",
+          "331123": "Suichang County",
+          "331124": "Songyang County",
+          "331125": "Yunhe County",
+          "331126": "Qingyuan County",
+          "331127": "Jingning She Autonomous County",
+          "331181": "Longquan City"
+        }
+      }
+    }
+  },
+  "340000": {
+    "code": "340000",
+    "name": "Anhui Province",
+    "cities": {
+      "340100": {
+        "code": "340100",
+        "name": "Hefei",
+        "districts": {
+          "340102": "Yaohai District",
+          "340103": "Luyang District",
+          "340104": "Shushan District",
+          "340111": "Baohe District",
+          "340121": "Changfeng County",
+          "340122": "Feidong County",
+          "340123": "Feixi County",
+          "340124": "Lujiang County",
+          "340181": "Chaohu City"
+        }
+      },
+      "340200": {
+        "code": "340200",
+        "name": "Wuhu",
+        "districts": {
+          "340202": "Mirror Lake District",
+          "340203": "Yijiang District",
+          "340207": "Jiujiang District",
+          "340208": "Sanshan District",
+          "340221": "Wuhu County",
+          "340222": "Fanchang County",
+          "340223": "Nanling County",
+          "340225": "Wuwei County"
+        }
+      },
+      "340300": {
+        "code": "340300",
+        "name": "Bengbu",
+        "districts": {
+          "340302": "Longzihu District",
+          "340303": "Bangshan District",
+          "340304": "Yuhui District",
+          "340311": "Huaishang District",
+          "340321": "Huaiyuan County",
+          "340322": "Wuhe County",
+          "340323": "Guzhen County"
+        }
+      },
+      "340400": {
+        "code": "340400",
+        "name": "Huainan City",
+        "districts": {
+          "340402": "Datong District",
+          "340403": "Tianjia'an District",
+          "340404": "Xiejiaji District",
+          "340405": "Bagong Mountain",
+          "340406": "Panji District",
+          "340421": "Fengtai County",
+          "340422": "Shou County"
+        }
+      },
+      "340500": {
+        "code": "340500",
+        "name": "Ma'anshan",
+        "districts": {
+          "340503": "Huashan District",
+          "340504": "rainy mountain area",
+          "340506": "Bowang District",
+          "340521": "Dangtu County",
+          "340522": "Hanshan County",
+          "340523": "and County"
+        }
+      },
+      "340600": {
+        "code": "340600",
+        "name": "Huaibei",
+        "districts": {
+          "340602": "Duji District",
+          "340603": "Xiangshan District",
+          "340604": "Lieshan District",
+          "340621": "Suixi County"
+        }
+      },
+      "340700": {
+        "code": "340700",
+        "name": "Tongling",
+        "districts": {
+          "340705": "Tongguan District",
+          "340706": "Ngee Ann District",
+          "340711": "suburbs",
+          "340722": "Zongyang County"
+        }
+      },
+      "340800": {
+        "code": "340800",
+        "name": "Anqing",
+        "districts": {
+          "340802": "Yingjiang District",
+          "340803": "Daguan District",
+          "340811": "Yixiu District",
+          "340822": "Huaining County",
+          "340825": "Taihu County",
+          "340826": "Susong County",
+          "340827": "Wangjiang County",
+          "340828": "Yuexi County",
+          "340881": "Tongcheng",
+          "340882": "Qianshan City"
+        }
+      },
+      "341000": {
+        "code": "341000",
+        "name": "Huangshan City",
+        "districts": {
+          "341002": "Tunxi District",
+          "341003": "Huangshan District",
+          "341004": "Huizhou District",
+          "341021": "She County",
+          "341022": "Xiuning County",
+          "341023": "Yi County",
+          "341024": "Qimen County"
+        }
+      },
+      "341100": {
+        "code": "341100",
+        "name": "Chuzhou",
+        "districts": {
+          "341102": "Langya District",
+          "341103": "Nanqiao District",
+          "341122": "Lai'an County",
+          "341124": "Quanjiao County",
+          "341125": "Dingyuan County",
+          "341126": "Fengyang County",
+          "341181": "Tianchang City",
+          "341182": "Mingguang City"
+        }
+      },
+      "341200": {
+        "code": "341200",
+        "name": "Fuyang City",
+        "districts": {
+          "341202": "Yingzhou District",
+          "341203": "Yingdong District",
+          "341204": "Yingquan District",
+          "341221": "Linquan County",
+          "341222": "Taihe County",
+          "341225": "Funan County",
+          "341226": "Yingshang County",
+          "341282": "Jieshou City"
+        }
+      },
+      "341300": {
+        "code": "341300",
+        "name": "Suzhou City",
+        "districts": {
+          "341302": "Yongqiao District",
+          "341321": "Dangshan County",
+          "341322": "Xiao County",
+          "341323": "Lingbi County",
+          "341324": "Sixian"
+        }
+      },
+      "341500": {
+        "code": "341500",
+        "name": "Lu'an City",
+        "districts": {
+          "341502": "Jin'an District",
+          "341503": "Yu'an District",
+          "341504": "Yeji District",
+          "341522": "Huoqiu County",
+          "341523": "Shucheng County",
+          "341524": "Jinzhai County",
+          "341525": "Huoshan County"
+        }
+      },
+      "341600": {
+        "code": "341600",
+        "name": "Bozhou",
+        "districts": {
+          "341602": "Qiaocheng District",
+          "341621": "Guoyang County",
+          "341622": "Mengcheng County",
+          "341623": "Lixin County"
+        }
+      },
+      "341700": {
+        "code": "341700",
+        "name": "Chizhou",
+        "districts": {
+          "341702": "Guichi District",
+          "341721": "Dongzhi County",
+          "341722": "Shitai County",
+          "341723": "Qingyang County"
+        }
+      },
+      "341800": {
+        "code": "341800",
+        "name": "Xuancheng",
+        "districts": {
+          "341802": "Xuanzhou District",
+          "341821": "Langxi County",
+          "341822": "Guangde County",
+          "341823": "Jing County",
+          "341824": "Jixi County",
+          "341825": "Jingde County",
+          "341881": "Ningguo"
+        }
+      }
+    }
+  },
+  "350000": {
+    "code": "350000",
+    "name": "Fujian Province",
+    "cities": {
+      "350100": {
+        "code": "350100",
+        "name": "Fuzhou",
+        "districts": {
+          "350102": "Gulou District",
+          "350103": "Taijiang District",
+          "350104": "Cangshan District",
+          "350105": "Mawei District",
+          "350111": "Jin'an District",
+          "350112": "Changle District",
+          "350121": "Minhou County",
+          "350122": "Lianjiang County",
+          "350123": "Luoyuan County",
+          "350124": "Minqing County",
+          "350125": "Yongtai County",
+          "350128": "Pingtan County",
+          "350181": "Fuqing City"
+        }
+      },
+      "350200": {
+        "code": "350200",
+        "name": "Xiamen City",
+        "districts": {
+          "350203": "Siming District",
+          "350205": "Haicang District",
+          "350206": "Huli District",
+          "350211": "Jimei District",
+          "350212": "Tong'an District",
+          "350213": "Xiang'an District"
+        }
+      },
+      "350300": {
+        "code": "350300",
+        "name": "Putian City",
+        "districts": {
+          "350302": "Chengxiang District",
+          "350303": "Hanjiang District",
+          "350304": "Licheng District",
+          "350305": "Xiuyu District",
+          "350322": "Xianyou County"
+        }
+      },
+      "350400": {
+        "code": "350400",
+        "name": "Sanming City",
+        "districts": {
+          "350402": "Melie District",
+          "350403": "Sanyuan District",
+          "350421": "Mingxi County",
+          "350423": "Qingliu County",
+          "350424": "Ninghua County",
+          "350425": "Datian County",
+          "350426": "Youxi County",
+          "350427": "Sha County",
+          "350428": "Jiangle County",
+          "350429": "Taining County",
+          "350430": "Jianning County",
+          "350481": "Yongan City"
+        }
+      },
+      "350500": {
+        "code": "350500",
+        "name": "Quanzhou",
+        "districts": {
+          "350502": "Licheng District",
+          "350503": "Fengze District",
+          "350504": "Luojiang District",
+          "350505": "Quangang District",
+          "350521": "Hui'an County",
+          "350524": "Anxi County",
+          "350525": "Yongchun County",
+          "350526": "Dehua County",
+          "350527": "Kinmen County",
+          "350581": "Shishi",
+          "350582": "Jinjiang City",
+          "350583": "Nan'an City"
+        }
+      },
+      "350600": {
+        "code": "350600",
+        "name": "Zhangzhou",
+        "districts": {
+          "350602": "Xiangcheng District",
+          "350603": "Longwen District",
+          "350622": "Yunxiao County",
+          "350623": "Zhangpu County",
+          "350624": "Zhao'an County",
+          "350625": "Changtai County",
+          "350626": "Dongshan County",
+          "350627": "Nanjing County",
+          "350628": "Pinghe County",
+          "350629": "Hua'an County",
+          "350681": "Longhai City"
+        }
+      },
+      "350700": {
+        "code": "350700",
+        "name": "Nanping",
+        "districts": {
+          "350702": "Yanping District",
+          "350703": "Jianyang District",
+          "350721": "Shunchang County",
+          "350722": "Pucheng County",
+          "350723": "Guangze County",
+          "350724": "Songxi County",
+          "350725": "Zhenghe County",
+          "350781": "Shaowu",
+          "350782": "Wuyishan City",
+          "350783": "Jian'ou City"
+        }
+      },
+      "350800": {
+        "code": "350800",
+        "name": "Longyan City",
+        "districts": {
+          "350802": "Silla District",
+          "350803": "Yongding District",
+          "350821": "Changting County",
+          "350823": "Shanghang County",
+          "350824": "Wuping County",
+          "350825": "Liancheng County",
+          "350881": "Zhangping"
+        }
+      },
+      "350900": {
+        "code": "350900",
+        "name": "Ningde",
+        "districts": {
+          "350902": "Jiaocheng District",
+          "350921": "Xiapu County",
+          "350922": "Gutian County",
+          "350923": "Pingnan County",
+          "350924": "Shouning County",
+          "350925": "Zhouning County",
+          "350926": "Zherong County",
+          "350981": "Fu'an",
+          "350982": "Fuding City"
+        }
+      }
+    }
+  },
+  "360000": {
+    "code": "360000",
+    "name": "Jiangxi Province",
+    "cities": {
+      "360100": {
+        "code": "360100",
+        "name": "Nanchang",
+        "districts": {
+          "360102": "East Lake District",
+          "360103": "West Lake District",
+          "360104": "Albatron Spectrum Area",
+          "360105": "Wanli District",
+          "360111": "Castle Peak Lake District",
+          "360112": "Xinjian District",
+          "360121": "Nanchang County",
+          "360123": "Anyi County",
+          "360124": "Jinxian County"
+        }
+      },
+      "360200": {
+        "code": "360200",
+        "name": "Jingdezhen",
+        "districts": {
+          "360202": "Changjiang District",
+          "360203": "Zhushan District",
+          "360222": "Fuliang County",
+          "360281": "Leping City"
+        }
+      },
+      "360300": {
+        "code": "360300",
+        "name": "Pingxiang",
+        "districts": {
+          "360302": "Anyuan District",
+          "360313": "Xiangdong District",
+          "360321": "Lianhua County",
+          "360322": "Shangli County",
+          "360323": "Luxi County"
+        }
+      },
+      "360400": {
+        "code": "360400",
+        "name": "Jiujiang City",
+        "districts": {
+          "360402": "Lianxi District",
+          "360403": "Xunyang District",
+          "360404": "Chaisang District",
+          "360423": "Wuning County",
+          "360424": "Xiushui County",
+          "360425": "Yongxiu County",
+          "360426": "Dean County",
+          "360428": "Duchang County",
+          "360429": "Hukou County",
+          "360430": "Pengze County",
+          "360481": "Ruichang City",
+          "360482": "Gongqingcheng",
+          "360483": "Lushan City"
+        }
+      },
+      "360500": {
+        "code": "360500",
+        "name": "Xinyu City",
+        "districts": {
+          "360502": "Yushui District",
+          "360521": "Fenyi County"
+        }
+      },
+      "360600": {
+        "code": "360600",
+        "name": "Yingtan City",
+        "districts": {
+          "360602": "Moon Lake District",
+          "360603": "Yujiang District",
+          "360681": "Guixi"
+        }
+      },
+      "360700": {
+        "code": "360700",
+        "name": "Ganzhou City",
+        "districts": {
+          "360702": "Zhanggong District",
+          "360703": "Nankang District",
+          "360704": "Ganxian District",
+          "360722": "Xinfeng County",
+          "360723": "Dayu County",
+          "360724": "Shangyou County",
+          "360725": "Chongyi County",
+          "360726": "Anyuan County",
+          "360727": "Longnan County",
+          "360728": "Dingnan County",
+          "360729": "Quannan County",
+          "360730": "Ningdu County",
+          "360731": "Yudu County",
+          "360732": "Xingguo County",
+          "360733": "Huichang County",
+          "360734": "Xunwu County",
+          "360735": "Shicheng County",
+          "360781": "Ruijin"
+        }
+      },
+      "360800": {
+        "code": "360800",
+        "name": "Ji'an City",
+        "districts": {
+          "360802": "Jizhou District",
+          "360803": "Qingyuan District",
+          "360821": "Ji'an County",
+          "360822": "Jishui County",
+          "360823": "Xiajiang County",
+          "360824": "Xingan County",
+          "360825": "Yongfeng County",
+          "360826": "Taihe County",
+          "360827": "Suichuan County",
+          "360828": "Wan'an County",
+          "360829": "Anfu County",
+          "360830": "Yongxin County",
+          "360881": "Jinggangshan City"
+        }
+      },
+      "360900": {
+        "code": "360900",
+        "name": "Yichun City",
+        "districts": {
+          "360902": "Yuanzhou District",
+          "360921": "Fengxin County",
+          "360922": "Wanzai County",
+          "360923": "Shanggao County",
+          "360924": "Yifeng County",
+          "360925": "Jing'an County",
+          "360926": "Tonggu County",
+          "360981": "Fengcheng",
+          "360982": "Zhangshu City",
+          "360983": "Gao'an City"
+        }
+      },
+      "361000": {
+        "code": "361000",
+        "name": "Fuzhou",
+        "districts": {
+          "361002": "Linchuan District",
+          "361003": "Dongxiang District",
+          "361021": "Nancheng County",
+          "361022": "Lichuan County",
+          "361023": "Nanfeng County",
+          "361024": "Chongren County",
+          "361025": "Le'an County",
+          "361026": "Yihuang County",
+          "361027": "Jinxi County",
+          "361028": "Zixi County",
+          "361030": "Guangchang County"
+        }
+      },
+      "361100": {
+        "code": "361100",
+        "name": "Shangrao",
+        "districts": {
+          "361102": "Xinzhou District",
+          "361103": "Guangfeng District",
+          "361121": "Shangrao County",
+          "361123": "Yushan County",
+          "361124": "Qianshan County",
+          "361125": "Hengfeng County",
+          "361126": "Yiyang County",
+          "361127": "Yugan County",
+          "361128": "Poyang County",
+          "361129": "Wannian County",
+          "361130": "Wuyuan County",
+          "361181": "Dexing City"
+        }
+      }
+    }
+  },
+  "370000": {
+    "code": "370000",
+    "name": "Shandong Province",
+    "cities": {
+      "370100": {
+        "code": "370100",
+        "name": "Jinan City",
+        "districts": {
+          "370102": "Lixia District",
+          "370103": "Shizhong District",
+          "370104": "Huaiyin District",
+          "370105": "Tianqiao District",
+          "370112": "Licheng District",
+          "370113": "Changqing District",
+          "370114": "Zhangqiu District",
+          "370115": "Jiyang District",
+          "370116": "Laiwu District",
+          "370117": "Gangcheng District",
+          "370124": "Pingyin County",
+          "370126": "Shanghe County"
+        }
+      },
+      "370200": {
+        "code": "370200",
+        "name": "Qingdao",
+        "districts": {
+          "370202": "Shinan District",
+          "370203": "Shibei District",
+          "370211": "Huangdao District",
+          "370212": "Laoshan District",
+          "370213": "Licang District",
+          "370214": "Chengyang District",
+          "370215": "Jimo District",
+          "370281": "Jiaozhou",
+          "370283": "Pingdu City",
+          "370285": "Lacey"
+        }
+      },
+      "370300": {
+        "code": "370300",
+        "name": "Zibo",
+        "districts": {
+          "370302": "Zichuan District",
+          "370303": "Zhangdian District",
+          "370304": "Boshan District",
+          "370305": "Linzi District",
+          "370306": "Zhoucun District",
+          "370321": "Huantai County",
+          "370322": "Gaoqing County",
+          "370323": "Yiyuan County"
+        }
+      },
+      "370400": {
+        "code": "370400",
+        "name": "Zaozhuang",
+        "districts": {
+          "370402": "Shizhong District",
+          "370403": "Xuecheng District",
+          "370404": "Yicheng District",
+          "370405": "Taierzhuang District",
+          "370406": "Shanting District",
+          "370481": "Tengzhou"
+        }
+      },
+      "370500": {
+        "code": "370500",
+        "name": "Dongying City",
+        "districts": {
+          "370502": "Dongying District",
+          "370503": "Estuary District",
+          "370505": "Kenli District",
+          "370522": "Lijin County",
+          "370523": "Guangrao County"
+        }
+      },
+      "370600": {
+        "code": "370600",
+        "name": "City of Yantai",
+        "districts": {
+          "370602": "Zhifu District",
+          "370611": "Fushan District",
+          "370612": "Muping District",
+          "370613": "Laishan District",
+          "370614": "Penglai District",
+          "370681": "Longkou City",
+          "370682": "Laiyang City",
+          "370683": "Laizhou",
+          "370684": "Penglai",
+          "370685": "Zhaoyuan City",
+          "370686": "Qixia City",
+          "370687": "Haiyang City"
+        }
+      },
+      "370700": {
+        "code": "370700",
+        "name": "Weifang",
+        "districts": {
+          "370702": "Weicheng District",
+          "370703": "Hanting District",
+          "370704": "Fangzi District",
+          "370705": "Kelvin District",
+          "370724": "Linqu County",
+          "370725": "Changle County",
+          "370781": "Qingzhou",
+          "370782": "Zhucheng",
+          "370783": "Shouguang City",
+          "370784": "Anqiu",
+          "370785": "Gaomi City",
+          "370786": "Changyi City"
+        }
+      },
+      "370800": {
+        "code": "370800",
+        "name": "Jining",
+        "districts": {
+          "370811": "Rencheng District",
+          "370812": "Yanzhou District",
+          "370826": "Weishan County",
+          "370827": "Yutai County",
+          "370828": "Jinxiang County",
+          "370829": "Jiaxiang County",
+          "370830": "Wenshang County",
+          "370831": "Sishui County",
+          "370832": "Liangshan County",
+          "370881": "Qufu",
+          "370883": "Zoucheng"
+        }
+      },
+      "370900": {
+        "code": "370900",
+        "name": "Tai'an City",
+        "districts": {
+          "370902": "Taishan District",
+          "370911": "Daiyue District",
+          "370921": "Ningyang County",
+          "370923": "Dongping County",
+          "370982": "Xintai City",
+          "370983": "Feicheng"
+        }
+      },
+      "371000": {
+        "code": "371000",
+        "name": "Weihai",
+        "districts": {
+          "371002": "Huancui District",
+          "371003": "Wendeng District",
+          "371082": "Rongcheng City",
+          "371083": "Rushan City"
+        }
+      },
+      "371100": {
+        "code": "371100",
+        "name": "Rizhao City",
+        "districts": {
+          "371102": "Donggang District",
+          "371103": "Lanshan District",
+          "371121": "Wulian County",
+          "371122": "Ju County"
+        }
+      },
+      "371300": {
+        "code": "371300",
+        "name": "Linyi City",
+        "districts": {
+          "371302": "Lanshan District",
+          "371311": "Luozhuang District",
+          "371312": "East District",
+          "371321": "Yinan County",
+          "371322": "Tancheng County",
+          "371323": "Yishui County",
+          "371324": "Lanling County",
+          "371325": "Fei County",
+          "371326": "Pingyi County",
+          "371327": "Junan County",
+          "371328": "Mengyin County",
+          "371329": "Linshu County"
+        }
+      },
+      "371400": {
+        "code": "371400",
+        "name": "Dezhou",
+        "districts": {
+          "371402": "Decheng District",
+          "371403": "Lingcheng District",
+          "371422": "Ningjin County",
+          "371423": "Qingyun County",
+          "371424": "Linyi County",
+          "371425": "Qihe County",
+          "371426": "Pingyuan County",
+          "371427": "Xiajin County",
+          "371428": "Wucheng County",
+          "371481": "Leling City",
+          "371482": "Yucheng"
+        }
+      },
+      "371500": {
+        "code": "371500",
+        "name": "Liaocheng",
+        "districts": {
+          "371502": "Dongchangfu District",
+          "371521": "Yanggu County",
+          "371522": "Shen County",
+          "371523": "Chiping County",
+          "371524": "Dong'e County",
+          "371525": "Crown County",
+          "371526": "Gaotang County",
+          "371581": "Linqing"
+        }
+      },
+      "371600": {
+        "code": "371600",
+        "name": "Binzhou",
+        "districts": {
+          "371602": "Bincheng District",
+          "371603": "Zhanhua District",
+          "371621": "Huimin County",
+          "371622": "Yangxin County",
+          "371623": "Wudi County",
+          "371625": "Boxing County",
+          "371681": "Zouping"
+        }
+      },
+      "371700": {
+        "code": "371700",
+        "name": "Heze City",
+        "districts": {
+          "371702": "Peony District",
+          "371703": "Dingtao District",
+          "371721": "Cao County",
+          "371722": "single county",
+          "371723": "Chengwu County",
+          "371724": "Juye County",
+          "371725": "Yuncheng County",
+          "371726": "Juancheng County",
+          "371728": "Dongming County"
+        }
+      }
+    }
+  },
+  "410000": {
+    "code": "410000",
+    "name": "Henan Province",
+    "cities": {
+      "410100": {
+        "code": "410100",
+        "name": "Zhengzhou City",
+        "districts": {
+          "410102": "Zhongyuan District",
+          "410103": "Erqi District",
+          "410104": "Guancheng Hui District",
+          "410105": "Jinshui District",
+          "410106": "upper block",
+          "410108": "Huiji District",
+          "410122": "Zhongmu County",
+          "410181": "Gongyi City",
+          "410182": "Xingyang City",
+          "410183": "Xinmi City",
+          "410184": "Xinzheng",
+          "410185": "Dengfeng"
+        }
+      },
+      "410200": {
+        "code": "410200",
+        "name": "Kaifeng",
+        "districts": {
+          "410202": "Longting District",
+          "410203": "Shunhe Hui District",
+          "410204": "Gulou District",
+          "410205": "Yuwangtai District",
+          "410212": "Xiangfu District",
+          "410221": "Qi County",
+          "410222": "Tongxu County",
+          "410223": "Weishi County",
+          "410225": "Lankao County"
+        }
+      },
+      "410300": {
+        "code": "410300",
+        "name": "Luoyang City",
+        "districts": {
+          "410302": "old Town",
+          "410303": "Xigong District",
+          "410304": "Canhe Hui District",
+          "410305": "Jianxi District",
+          "410306": "Geely District",
+          "410311": "Lorong District",
+          "410322": "Mengjin County",
+          "410323": "Xin'an County",
+          "410324": "Luanchuan County",
+          "410325": "Song County",
+          "410326": "Ruyang County",
+          "410327": "Yiyang County",
+          "410328": "Luoning County",
+          "410329": "Yichuan County",
+          "410381": "Yanshi"
+        }
+      },
+      "410400": {
+        "code": "410400",
+        "name": "Pingdingshan City",
+        "districts": {
+          "410402": "Xinhua District",
+          "410403": "Weidong District",
+          "410404": "Shilong District",
+          "410411": "Zhanhe District",
+          "410421": "Baofeng County",
+          "410422": "Ye County",
+          "410423": "Lushan County",
+          "410425": "Jia County",
+          "410481": "Wugang City",
+          "410482": "Ruzhou"
+        }
+      },
+      "410500": {
+        "code": "410500",
+        "name": "Anyang City",
+        "districts": {
+          "410502": "Wenfeng District",
+          "410503": "Beiguan District",
+          "410505": "Yindu District",
+          "410506": "Longan District",
+          "410522": "Anyang County",
+          "410523": "Tangyin County",
+          "410526": "Hua County",
+          "410527": "Neihuang County",
+          "410581": "Linzhou"
+        }
+      },
+      "410600": {
+        "code": "410600",
+        "name": "Hebi",
+        "districts": {
+          "410602": "Heshan District",
+          "410603": "Yamashiro",
+          "410611": "Qibin District",
+          "410621": "Jun County",
+          "410622": "Qi County"
+        }
+      },
+      "410700": {
+        "code": "410700",
+        "name": "Xinxiang",
+        "districts": {
+          "410702": "Hongqi District",
+          "410703": "Weibin District",
+          "410704": "Fengquan District",
+          "410711": "Makino District",
+          "410721": "Xinxiang County",
+          "410724": "Huojia County",
+          "410725": "Yuanyang County",
+          "410726": "Yanjin County",
+          "410727": "Fengqiu County",
+          "410728": "Changyuan County",
+          "410781": "Weihui City",
+          "410782": "Huixian City"
+        }
+      },
+      "410800": {
+        "code": "410800",
+        "name": "Jiaozuo City",
+        "districts": {
+          "410802": "liberated area",
+          "410803": "Zhongzhan District",
+          "410804": "Macun District",
+          "410811": "Sanyang District",
+          "410821": "Xiuwu County",
+          "410822": "Boai County",
+          "410823": "Wuzhi County",
+          "410825": "Wen County",
+          "410882": "Qinyang City",
+          "410883": "Mengzhou"
+        }
+      },
+      "410900": {
+        "code": "410900",
+        "name": "Puyang City",
+        "districts": {
+          "410902": "Hualong District",
+          "410922": "Qingfeng County",
+          "410923": "Nanle County",
+          "410926": "Fan County",
+          "410927": "Taiqian County",
+          "410928": "Puyang County"
+        }
+      },
+      "411000": {
+        "code": "411000",
+        "name": "Xuchang",
+        "districts": {
+          "411002": "Weidu District",
+          "411003": "Jian'an District",
+          "411024": "Yanling County",
+          "411025": "Xiangcheng County",
+          "411081": "Yuzhou",
+          "411082": "Changge City"
+        }
+      },
+      "411100": {
+        "code": "411100",
+        "name": "Luohe City",
+        "districts": {
+          "411102": "Source and sink area",
+          "411103": "Yancheng District",
+          "411104": "Zhaoling District",
+          "411121": "Wuyang County",
+          "411122": "Linying County"
+        }
+      },
+      "411200": {
+        "code": "411200",
+        "name": "Sanmenxia",
+        "districts": {
+          "411202": "lakeside area",
+          "411203": "Shanzhou District",
+          "411221": "Mianchi County",
+          "411224": "Lushi County",
+          "411281": "Yima City",
+          "411282": "Lingbao City"
+        }
+      },
+      "411300": {
+        "code": "411300",
+        "name": "Nanyang City",
+        "districts": {
+          "411302": "Wancheng District",
+          "411303": "Wolong District",
+          "411321": "Nanzhao County",
+          "411322": "Fangcheng County",
+          "411323": "Xixia County",
+          "411324": "Zhenping County",
+          "411325": "Neixiang County",
+          "411326": "Xichuan County",
+          "411327": "Sheqi County",
+          "411328": "Tanghe County",
+          "411329": "Xinye County",
+          "411330": "Tongbai County",
+          "411381": "Dengzhou"
+        }
+      },
+      "411400": {
+        "code": "411400",
+        "name": "Shangqiu",
+        "districts": {
+          "411402": "Liangyuan District",
+          "411403": "Suiyang District",
+          "411421": "Minquan County",
+          "411422": "Sui County",
+          "411423": "Ningling County",
+          "411424": "Zhecheng County",
+          "411425": "Yucheng County",
+          "411426": "Xiayi County",
+          "411481": "Yongcheng City"
+        }
+      },
+      "411500": {
+        "code": "411500",
+        "name": "Xinyang City",
+        "districts": {
+          "411502": "Shihe District",
+          "411503": "Pingqiao District",
+          "411521": "Luoshan County",
+          "411522": "Guangshan County",
+          "411523": "new county",
+          "411524": "Shangcheng County",
+          "411525": "Gushi County",
+          "411526": "Huangchuan County",
+          "411527": "Huaibin County",
+          "411528": "Xi County"
+        }
+      },
+      "411600": {
+        "code": "411600",
+        "name": "Zhoukou City",
+        "districts": {
+          "411602": "Chuanhui District",
+          "411621": "Fugou County",
+          "411622": "Xihua County",
+          "411623": "Shangshui County",
+          "411624": "Shenqiu County",
+          "411625": "Dancheng County",
+          "411626": "Huaiyang County",
+          "411627": "Taikang County",
+          "411628": "Luyi County",
+          "411681": "Xiangcheng"
+        }
+      },
+      "411700": {
+        "code": "411700",
+        "name": "Zhumadian City",
+        "districts": {
+          "411702": "Yicheng District",
+          "411721": "Xiping County",
+          "411722": "Shangcai County",
+          "411723": "Pingyu County",
+          "411724": "Zhengyang County",
+          "411725": "Queshan County",
+          "411726": "Biyang County",
+          "411727": "Runan County",
+          "411728": "Suiping County",
+          "411729": "Xincai County"
+        }
+      }
+    }
+  },
+  "420000": {
+    "code": "420000",
+    "name": "Hubei Province",
+    "cities": {
+      "420100": {
+        "code": "420100",
+        "name": "Wuhan",
+        "districts": {
+          "420102": "Jiang'an District",
+          "420103": "Jianghan District",
+          "420104": "Qiaokou District",
+          "420105": "Hanyang District",
+          "420106": "Wuchang District",
+          "420107": "Qingshan District",
+          "420111": "Hongshan District",
+          "420112": "Dongxihu District",
+          "420113": "Hannan District",
+          "420114": "Caidian District",
+          "420115": "Jiangxia District",
+          "420116": "Huangpi District",
+          "420117": "Xinzhou District"
+        }
+      },
+      "420200": {
+        "code": "420200",
+        "name": "Huangshi City",
+        "districts": {
+          "420202": "Huangshi Port Area",
+          "420203": "Xisai Mountains",
+          "420204": "Lower land area",
+          "420205": "Iron Mountain",
+          "420222": "Yangxin County",
+          "420281": "Daye City"
+        }
+      },
+      "420300": {
+        "code": "420300",
+        "name": "Shiyan City",
+        "districts": {
+          "420302": "Maojian District",
+          "420303": "Zhangwan District",
+          "420304": "Yunyang District",
+          "420322": "Yunxi County",
+          "420323": "Zhushan County",
+          "420324": "Zhuxi County",
+          "420325": "Fang County",
+          "420381": "Danjiangkou City"
+        }
+      },
+      "420500": {
+        "code": "420500",
+        "name": "Yichang City",
+        "districts": {
+          "420502": "Xiling District",
+          "420503": "Wujiagang District",
+          "420504": "point military area",
+          "420505": "Xiaoting District",
+          "420506": "Yiling District",
+          "420525": "Yuan'an County",
+          "420526": "Xingshan County",
+          "420527": "Zigui County",
+          "420528": "Changyang Tujia Autonomous County",
+          "420529": "Wufeng Tujia Autonomous County",
+          "420581": "Yidu",
+          "420582": "Dangyang",
+          "420583": "Zhijiang City"
+        }
+      },
+      "420600": {
+        "code": "420600",
+        "name": "Xiangyang City",
+        "districts": {
+          "420602": "Xiangcheng District",
+          "420606": "Fancheng District",
+          "420607": "Xiangzhou District",
+          "420624": "Nanzhang County",
+          "420625": "Gucheng County",
+          "420626": "Baokang County",
+          "420682": "Laohekou",
+          "420683": "Zaoyang",
+          "420684": "Yicheng"
+        }
+      },
+      "420700": {
+        "code": "420700",
+        "name": "Ezhou",
+        "districts": {
+          "420702": "Liangzi Lake District",
+          "420703": "Huarong District",
+          "420704": "Echeng District"
+        }
+      },
+      "420800": {
+        "code": "420800",
+        "name": "Jingmen",
+        "districts": {
+          "420802": "Dongbao District",
+          "420804": "Dagger area",
+          "420822": "Shayang County",
+          "420881": "Zhongxiang City",
+          "420882": "Jingshan City"
+        }
+      },
+      "420900": {
+        "code": "420900",
+        "name": "Xiaogan City",
+        "districts": {
+          "420902": "Xiaonan District",
+          "420921": "Xiaochang County",
+          "420922": "Dawu County",
+          "420923": "Yunmeng County",
+          "420981": "Yingcheng",
+          "420982": "Anlu City",
+          "420984": "Hanchuan"
+        }
+      },
+      "421000": {
+        "code": "421000",
+        "name": "Jingzhou",
+        "districts": {
+          "421002": "Shashi District",
+          "421003": "Jingzhou District",
+          "421022": "Public Security County",
+          "421023": "Jianli County",
+          "421024": "Jiangling County",
+          "421081": "Shishou City",
+          "421083": "Honghu City",
+          "421087": "Songzi City"
+        }
+      },
+      "421100": {
+        "code": "421100",
+        "name": "Huanggang City",
+        "districts": {
+          "421102": "Huangzhou District",
+          "421121": "Tuanfeng County",
+          "421122": "Hong'an County",
+          "421123": "Luotian County",
+          "421124": "Yingshan County",
+          "421125": "Xishui County",
+          "421126": "Qichun County",
+          "421127": "Huangmei County",
+          "421181": "Macheng",
+          "421182": "Wuxue City"
+        }
+      },
+      "421200": {
+        "code": "421200",
+        "name": "Xianning",
+        "districts": {
+          "421202": "Ham'an District",
+          "421221": "Jiayu County",
+          "421222": "Tongcheng County",
+          "421223": "Chongyang County",
+          "421224": "Tongshan County",
+          "421281": "Chibi City"
+        }
+      },
+      "421300": {
+        "code": "421300",
+        "name": "Suizhou",
+        "districts": {
+          "421303": "Zengdu District",
+          "421321": "Sui County",
+          "421381": "Guangshui City"
+        }
+      },
+      "422800": {
+        "code": "422800",
+        "name": "Enshi Tujia and Miao Autonomous Prefecture",
+        "districts": {
+          "422801": "Enshi City",
+          "422802": "Icheon",
+          "422822": "Jianshi County",
+          "422823": "Badong County",
+          "422825": "Xuan'en County",
+          "422826": "Xianfeng County",
+          "422827": "Laifeng County",
+          "422828": "Hefeng County"
+        }
+      }
+    }
+  },
+  "430000": {
+    "code": "430000",
+    "name": "Hunan Province",
+    "cities": {
+      "430100": {
+        "code": "430100",
+        "name": "Changsha City",
+        "districts": {
+          "430102": "Furong District",
+          "430103": "Tianxin District",
+          "430104": "Yuelu District",
+          "430105": "Kaifu District",
+          "430111": "Yuhua District",
+          "430112": "Wangcheng District",
+          "430121": "Changsha County",
+          "430181": "Liuyang City",
+          "430182": "Ningxiang"
+        }
+      },
+      "430200": {
+        "code": "430200",
+        "name": "Zhuzhou City",
+        "districts": {
+          "430202": "Hetang District",
+          "430203": "Lusong District",
+          "430204": "Shifeng District",
+          "430211": "Tianyuan District",
+          "430212": "Lukou District",
+          "430223": "You County",
+          "430224": "Chaling County",
+          "430225": "Yanling County",
+          "430281": "Liling City"
+        }
+      },
+      "430300": {
+        "code": "430300",
+        "name": "Xiangtan City",
+        "districts": {
+          "430302": "Rain Lake District",
+          "430304": "Yuetang District",
+          "430321": "Xiangtan County",
+          "430381": "Xiangxiang City",
+          "430382": "Shaoshan City"
+        }
+      },
+      "430400": {
+        "code": "430400",
+        "name": "Hengyang",
+        "districts": {
+          "430405": "Zhuhui District",
+          "430406": "Yanfeng District",
+          "430407": "Shigu District",
+          "430408": "Zhengxiang District",
+          "430412": "Nanyue District",
+          "430421": "Hengyang County",
+          "430422": "Hengnan County",
+          "430423": "Hengshan County",
+          "430424": "Hengdong County",
+          "430426": "Qidong County",
+          "430481": "Leiyang City",
+          "430482": "Changning City"
+        }
+      },
+      "430500": {
+        "code": "430500",
+        "name": "Shaoyang",
+        "districts": {
+          "430502": "Shuangqing District",
+          "430503": "Daxiang District",
+          "430511": "North Tower District",
+          "430521": "Shaodong County",
+          "430522": "Xinshao County",
+          "430523": "Shaoyang County",
+          "430524": "Longhui County",
+          "430525": "Dongkou County",
+          "430527": "Suining County",
+          "430528": "Xinning County",
+          "430529": "Chengbu Miao Autonomous County",
+          "430581": "Wugang City"
+        }
+      },
+      "430600": {
+        "code": "430600",
+        "name": "Yueyang City",
+        "districts": {
+          "430602": "Yueyang Building District",
+          "430603": "Yunxi District",
+          "430611": "Junshan District",
+          "430621": "Yueyang County",
+          "430623": "Huarong County",
+          "430624": "Xiangyin County",
+          "430626": "Pingjiang County",
+          "430681": "Miluo City",
+          "430682": "Linxiang City"
+        }
+      },
+      "430700": {
+        "code": "430700",
+        "name": "Changde City",
+        "districts": {
+          "430702": "Wuling District",
+          "430703": "Dingcheng District",
+          "430721": "Anxiang County",
+          "430722": "Hanshou County",
+          "430723": "Li County",
+          "430724": "Linli County",
+          "430725": "Taoyuan County",
+          "430726": "Shimen County",
+          "430781": "Tsu City"
+        }
+      },
+      "430800": {
+        "code": "430800",
+        "name": "Zhangjiajie City",
+        "districts": {
+          "430802": "Yongding District",
+          "430811": "Wulingyuan District",
+          "430821": "Cili County",
+          "430822": "Sangzhi County"
+        }
+      },
+      "430900": {
+        "code": "430900",
+        "name": "Yiyang City",
+        "districts": {
+          "430902": "Ziyang District",
+          "430903": "Heshan District",
+          "430921": "south county",
+          "430922": "Taojiang County",
+          "430923": "Anhua County",
+          "430981": "Yuanjiang City"
+        }
+      },
+      "431000": {
+        "code": "431000",
+        "name": "Chenzhou",
+        "districts": {
+          "431002": "North Lake District",
+          "431003": "Suxian District",
+          "431021": "Guiyang County",
+          "431022": "Yizhang County",
+          "431023": "Yongxing County",
+          "431024": "Jiahe County",
+          "431025": "Linwu County",
+          "431026": "Rucheng County",
+          "431027": "Guidong County",
+          "431028": "Anren County",
+          "431081": "Zixing City"
+        }
+      },
+      "431100": {
+        "code": "431100",
+        "name": "Yongzhou",
+        "districts": {
+          "431102": "Lingling District",
+          "431103": "cold water beach area",
+          "431121": "Qiyang County",
+          "431122": "Dong'an County",
+          "431123": "Shuangpai County",
+          "431124": "Dao County",
+          "431125": "Jiangyong County",
+          "431126": "Ningyuan County",
+          "431127": "blue mountain county",
+          "431128": "Xintian County",
+          "431129": "Jianghua Yao Autonomous County"
+        }
+      },
+      "431200": {
+        "code": "431200",
+        "name": "Huaihua City",
+        "districts": {
+          "431202": "Crane District",
+          "431221": "Zhongfang County",
+          "431222": "Yuanling County",
+          "431223": "Chenxi County",
+          "431224": "Xupu County",
+          "431225": "Huitong County",
+          "431226": "Mayang Miao Autonomous County",
+          "431227": "Xinhuang Dong Autonomous County",
+          "431228": "Zhijiang Dong Autonomous County",
+          "431229": "Jingzhou Miao and Dong Autonomous County",
+          "431230": "Tongdao Dong Autonomous County",
+          "431281": "Hongjiang City"
+        }
+      },
+      "431300": {
+        "code": "431300",
+        "name": "Loudi",
+        "districts": {
+          "431302": "Lou Xing District",
+          "431321": "Shuangfeng County",
+          "431322": "Xinhua County",
+          "431381": "Lengshuijiang",
+          "431382": "Lianyuan City"
+        }
+      },
+      "433100": {
+        "code": "433100",
+        "name": "Xiangxi Tujia and Miao Autonomous Prefecture",
+        "districts": {
+          "433101": "Jishou City",
+          "433122": "Luxi County",
+          "433123": "Fenghuang County",
+          "433124": "Huagaki County",
+          "433125": "Baojing County",
+          "433126": "Guzhang County",
+          "433127": "Yongshun County",
+          "433130": "Longshan County"
+        }
+      }
+    }
+  },
+  "440000": {
+    "code": "440000",
+    "name": "Guangdong Province",
+    "cities": {
+      "440100": {
+        "code": "440100",
+        "name": "Guangzhou City",
+        "districts": {
+          "440103": "Liwan District",
+          "440104": "Yuexiu District",
+          "440105": "Haizhu District",
+          "440106": "Tianhe District",
+          "440111": "Baiyun District",
+          "440112": "Huangpu District",
+          "440113": "Panyu District",
+          "440114": "Huadu District",
+          "440115": "Nansha District",
+          "440117": "Conghua District",
+          "440118": "Zengcheng District"
+        }
+      },
+      "440200": {
+        "code": "440200",
+        "name": "Shaoguan City",
+        "districts": {
+          "440203": "Wujiang District",
+          "440204": "Zhenjiang District",
+          "440205": "Qujiang District",
+          "440222": "Shixing County",
+          "440224": "Renhua County",
+          "440229": "Wengyuan County",
+          "440232": "Ruyuan Yao Autonomous County",
+          "440233": "Xinfeng County",
+          "440281": "Lechang City",
+          "440282": "Nanxiong"
+        }
+      },
+      "440300": {
+        "code": "440300",
+        "name": "Shenzhen",
+        "districts": {
+          "440303": "Luohu district",
+          "440304": "Futian district",
+          "440305": "Nanshan District",
+          "440306": "Bao'an District",
+          "440307": "Longgang District",
+          "440308": "Yantian District",
+          "440309": "Longhua District",
+          "440310": "Pingshan District",
+          "440311": "Guangming District"
+        }
+      },
+      "440400": {
+        "code": "440400",
+        "name": "Zhuhai city",
+        "districts": {
+          "440402": "Xiangzhou District",
+          "440403": "Doumen District",
+          "440404": "Jinwan District"
+        }
+      },
+      "440500": {
+        "code": "440500",
+        "name": "city ​​of Shantou",
+        "districts": {
+          "440507": "Longhu District",
+          "440511": "Jinping District",
+          "440512": "Haojiang District",
+          "440513": "Chaoyang District",
+          "440514": "Chaonan District",
+          "440515": "Chenghai District",
+          "440523": "Nan'ao County"
+        }
+      },
+      "440600": {
+        "code": "440600",
+        "name": "Foshan City",
+        "districts": {
+          "440604": "Chancheng District",
+          "440605": "Nanhai District",
+          "440606": "Shunde",
+          "440607": "Sanshui District",
+          "440608": "Gaoming District"
+        }
+      },
+      "440700": {
+        "code": "440700",
+        "name": "Jiangmen",
+        "districts": {
+          "440703": "Pengjiang District",
+          "440704": "Jianghai District",
+          "440705": "Xinhui District",
+          "440781": "Taishan City",
+          "440783": "Kaiping",
+          "440784": "Heshan City",
+          "440785": "Enping"
+        }
+      },
+      "440800": {
+        "code": "440800",
+        "name": "Zhangjiang City",
+        "districts": {
+          "440802": "Chikan District",
+          "440803": "Xiashan District",
+          "440804": "Potou District",
+          "440811": "Machang District",
+          "440823": "Suixi County",
+          "440825": "Xuwen County",
+          "440881": "Lianjiang City",
+          "440882": "Leizhou",
+          "440883": "Wuchuan City"
+        }
+      },
+      "440900": {
+        "code": "440900",
+        "name": "Maoming",
+        "districts": {
+          "440902": "Maonan District",
+          "440904": "Dianbai District",
+          "440981": "Gaozhou",
+          "440982": "Huazhou",
+          "440983": "Xinyi City"
+        }
+      },
+      "441200": {
+        "code": "441200",
+        "name": "Zhaoqing",
+        "districts": {
+          "441202": "Duanzhou District",
+          "441203": "Dinghu District",
+          "441204": "Gaoyao District",
+          "441223": "Guangning County",
+          "441224": "Huaiji County",
+          "441225": "Fengkai County",
+          "441226": "Deqing County",
+          "441284": "Sihui City"
+        }
+      },
+      "441300": {
+        "code": "441300",
+        "name": "Huizhou",
+        "districts": {
+          "441302": "Huicheng District",
+          "441303": "Huiyang District",
+          "441322": "Boluo County",
+          "441323": "Huidong County",
+          "441324": "Longmen County"
+        }
+      },
+      "441400": {
+        "code": "441400",
+        "name": "Meizhou",
+        "districts": {
+          "441402": "Meijiang District",
+          "441403": "Meixian District",
+          "441422": "Dapu County",
+          "441423": "Fengshun County",
+          "441424": "Wuhua County",
+          "441426": "Pingyuan County",
+          "441427": "Jiaoling County",
+          "441481": "Xingning City"
+        }
+      },
+      "441500": {
+        "code": "441500",
+        "name": "Shanwei City",
+        "districts": {
+          "441502": "urban area",
+          "441521": "Haifeng County",
+          "441523": "Luhe County",
+          "441581": "Lufeng"
+        }
+      },
+      "441600": {
+        "code": "441600",
+        "name": "Heyuan City",
+        "districts": {
+          "441602": "Yuancheng District",
+          "441621": "Zijin County",
+          "441622": "Longchuan County",
+          "441623": "Lianping County",
+          "441624": "Heping County",
+          "441625": "Dongyuan County"
+        }
+      },
+      "441700": {
+        "code": "441700",
+        "name": "Yangjiang",
+        "districts": {
+          "441702": "Jiangcheng District",
+          "441704": "Yangdong District",
+          "441721": "Yangxi County",
+          "441781": "Yangchun City"
+        }
+      },
+      "441800": {
+        "code": "441800",
+        "name": "Qingyuan",
+        "districts": {
+          "441802": "Qingcheng District",
+          "441803": "Fresh area",
+          "441821": "Fogang County",
+          "441823": "Yangshan County",
+          "441825": "Lianshan Zhuang and Yao Autonomous County",
+          "441826": "Liannan Yao Autonomous County",
+          "441881": "Yingde",
+          "441882": "Lianzhou"
+        }
+      },
+      "441900": {
+        "code": "441900",
+        "name": "Dongguan city",
+        "districts": {}
+      },
+      "442000": {
+        "code": "442000",
+        "name": "Zhongshan City",
+        "districts": {}
+      },
+      "445100": {
+        "code": "445100",
+        "name": "Chaozhou",
+        "districts": {
+          "445102": "Xiangqiao District",
+          "445103": "Chaoan District",
+          "445122": "Raoping County"
+        }
+      },
+      "445200": {
+        "code": "445200",
+        "name": "Jieyang",
+        "districts": {
+          "445202": "Rongcheng District",
+          "445203": "Jiedong District",
+          "445222": "Jiexi County",
+          "445224": "Huilai County",
+          "445281": "Puning City"
+        }
+      },
+      "445300": {
+        "code": "445300",
+        "name": "Yunfu City",
+        "districts": {
+          "445302": "Yuncheng District",
+          "445303": "Yun'an District",
+          "445321": "Xinxing County",
+          "445322": "Yunan County",
+          "445381": "Luoding"
+        }
+      }
+    }
+  },
+  "450000": {
+    "code": "450000",
+    "name": "Guangxi Zhuang Autonomous Region",
+    "cities": {
+      "450100": {
+        "code": "450100",
+        "name": "NanNing City",
+        "districts": {
+          "450102": "Xingning District",
+          "450103": "Qingxiu District",
+          "450105": "Gangnam District",
+          "450107": "Xixiangtang District",
+          "450108": "Liangqing District",
+          "450109": "Yongning District",
+          "450110": "Wuming District",
+          "450123": "Long'an County",
+          "450124": "Mashan County",
+          "450125": "Shanglin County",
+          "450126": "Binyang County",
+          "450127": "Heng County"
+        }
+      },
+      "450200": {
+        "code": "450200",
+        "name": "Liuzhou",
+        "districts": {
+          "450202": "Chengzhong District",
+          "450203": "Yufeng District",
+          "450204": "Liunan District",
+          "450205": "Liubei District",
+          "450206": "Liujiang District",
+          "450222": "Liucheng County",
+          "450223": "Luzhai County",
+          "450224": "Rong'an County",
+          "450225": "Rongshui Miao Autonomous County",
+          "450226": "Sanjiang Dong Autonomous County"
+        }
+      },
+      "450300": {
+        "code": "450300",
+        "name": "Guilin",
+        "districts": {
+          "450302": "Xiufeng District",
+          "450303": "Folding area",
+          "450304": "Xiangshan District",
+          "450305": "Qixing District",
+          "450311": "Yanshan District",
+          "450312": "Lingui District",
+          "450321": "Yangshuo County",
+          "450323": "Lingchuan County",
+          "450324": "Quanzhou County",
+          "450325": "Xing'an County",
+          "450326": "Yongfu County",
+          "450327": "Guanyang County",
+          "450328": "Longsheng Autonomous County of All Nationalities",
+          "450329": "Resource County",
+          "450330": "Pingle County",
+          "450332": "Gongcheng Yao Autonomous County",
+          "450381": "Lipu City"
+        }
+      },
+      "450400": {
+        "code": "450400",
+        "name": "Wuzhou",
+        "districts": {
+          "450403": "Wanxiu District",
+          "450405": "Cheung Chau District",
+          "450406": "Longxu District",
+          "450421": "Cangwu County",
+          "450422": "Fuji County",
+          "450423": "Mengshan County",
+          "450481": "Cenxi City"
+        }
+      },
+      "450500": {
+        "code": "450500",
+        "name": "Beihai",
+        "districts": {
+          "450502": "Haicheng District",
+          "450503": "Yinhai District",
+          "450512": "Iron Mountain Port District",
+          "450521": "Hepu County"
+        }
+      },
+      "450600": {
+        "code": "450600",
+        "name": "Fangchenggang",
+        "districts": {
+          "450602": "port area",
+          "450603": "Fangcheng District",
+          "450621": "Shangsi County",
+          "450681": "Dongxing City"
+        }
+      },
+      "450700": {
+        "code": "450700",
+        "name": "Qinzhou",
+        "districts": {
+          "450702": "Chennan District",
+          "450703": "Qinbei District",
+          "450721": "Lingshan County",
+          "450722": "Pubei County"
+        }
+      },
+      "450800": {
+        "code": "450800",
+        "name": "Guigang",
+        "districts": {
+          "450802": "Gangbei District",
+          "450803": "Konan District",
+          "450804": "Qintang District",
+          "450821": "Pingnan County",
+          "450881": "Guiping"
+        }
+      },
+      "450900": {
+        "code": "450900",
+        "name": "Yulin City",
+        "districts": {
+          "450902": "Yuzhou District",
+          "450903": "Fumian District",
+          "450921": "Rong County",
+          "450922": "Luchuan County",
+          "450923": "Bobai County",
+          "450924": "Xingye County",
+          "450981": "Beiliu"
+        }
+      },
+      "451000": {
+        "code": "451000",
+        "name": "Baise",
+        "districts": {
+          "451002": "Youjiang District",
+          "451021": "Tianyang County",
+          "451022": "Tiandong County",
+          "451023": "Pingguo County",
+          "451024": "Debao County",
+          "451026": "Napo County",
+          "451027": "Lingyun County",
+          "451028": "Leye County",
+          "451029": "Tianlin County",
+          "451030": "Xilin County",
+          "451031": "Longlin Autonomous County of Various Nationalities",
+          "451081": "Jingxi"
+        }
+      },
+      "451100": {
+        "code": "451100",
+        "name": "Hezhou",
+        "districts": {
+          "451102": "Babu District",
+          "451103": "Pinggui District",
+          "451121": "Zhaoping County",
+          "451122": "Zhongshan County",
+          "451123": "Fuchuan Yao Autonomous County"
+        }
+      },
+      "451200": {
+        "code": "451200",
+        "name": "Hechi City",
+        "districts": {
+          "451202": "Jinchengjiang District",
+          "451203": "Yizhou District",
+          "451221": "Nandan County",
+          "451222": "Tian'e County",
+          "451223": "Fengshan County",
+          "451224": "Donglan County",
+          "451225": "Luocheng Mulao Autonomous County",
+          "451226": "Huanjiang Maonan Autonomous County",
+          "451227": "Bama Yao Autonomous County",
+          "451228": "Du'an Yao Autonomous County",
+          "451229": "Dahua Yao Autonomous County"
+        }
+      },
+      "451300": {
+        "code": "451300",
+        "name": "Laibin City",
+        "districts": {
+          "451302": "Xingbin District",
+          "451321": "Xincheng County",
+          "451322": "Xiangzhou County",
+          "451323": "Wuxuan County",
+          "451324": "Jinxiu Yao Autonomous County",
+          "451381": "Heshan City"
+        }
+      },
+      "451400": {
+        "code": "451400",
+        "name": "Chongzuo",
+        "districts": {
+          "451402": "Jiangzhou District",
+          "451421": "Fusui County",
+          "451422": "Ningming County",
+          "451423": "Longzhou County",
+          "451424": "Daxin County",
+          "451425": "Tiandeng County",
+          "451481": "Pingxiang"
+        }
+      }
+    }
+  },
+  "460000": {
+    "code": "460000",
+    "name": "Hainan",
+    "cities": {
+      "460100": {
+        "code": "460100",
+        "name": "Haikou",
+        "districts": {
+          "460105": "Xiuying District",
+          "460106": "Longhua District",
+          "460107": "Qiongshan District",
+          "460108": "Meilan District"
+        }
+      },
+      "460200": {
+        "code": "460200",
+        "name": "Sanya",
+        "districts": {
+          "460202": "Haitang District",
+          "460203": "Jiyang District",
+          "460204": "Tianya District",
+          "460205": "Yazhou District"
+        }
+      },
+      "460300": {
+        "code": "460300",
+        "name": "Sansha",
+        "districts": {
+          "460321": "Paracel Islands",
+          "460322": "Nansha Islands",
+          "460323": "Islands, Reefs and Sea Areas of Zhongsha Islands",
+          "460324": "Paradise Islands"
+        }
+      },
+      "460400": {
+        "code": "460400",
+        "name": "Danzhou",
+        "districts": {}
+      }
+    }
+  },
+  "500000": {
+    "code": "500000",
+    "name": "Chongqing",
+    "cities": {
+      "500000": {
+        "code": "500000",
+        "name": "Chongqing",
+        "districts": {
+          "500101": "Wanzhou District",
+          "500102": "Fuling District",
+          "500103": "Yuzhong District",
+          "500104": "Dadukou District",
+          "500105": "Jiangbei District",
+          "500106": "Shapingba District",
+          "500107": "Jiulongpo District",
+          "500108": "South Bank area",
+          "500109": "Beibei District",
+          "500110": "Qijiang District",
+          "500111": "Dazu District",
+          "500112": "Yu Bei District",
+          "500113": "Banan District",
+          "500114": "Qianjiang District",
+          "500115": "Changshou District",
+          "500116": "Jiangjin District",
+          "500117": "Hechuan District",
+          "500118": "Yongchuan District",
+          "500119": "Nanchuan District",
+          "500120": "Bishan District",
+          "500151": "Tongliang District",
+          "500152": "Tongnan District",
+          "500153": "Rongchang District",
+          "500154": "Kaizhou District",
+          "500155": "Liangping District",
+          "500156": "Wulong District",
+          "500229": "Chengkou County",
+          "500230": "Fengdu County",
+          "500231": "Dianjiang County",
+          "500233": "Zhong County",
+          "500235": "Yunyang County",
+          "500236": "Fengjie County",
+          "500237": "Wushan County",
+          "500238": "Wuxi County",
+          "500240": "Shizhu Tujia Autonomous County",
+          "500241": "Xiushan Tujia and Miao Autonomous County",
+          "500242": "Youyang Tujia and Miao Autonomous County",
+          "500243": "Pengshui Miao and Tujia Autonomous County"
+        }
+      }
+    }
+  },
+  "510000": {
+    "code": "510000",
+    "name": "Sichuan Province",
+    "cities": {
+      "510100": {
+        "code": "510100",
+        "name": "Chengdu",
+        "districts": {
+          "510104": "Jinjiang District",
+          "510105": "Qingyang District",
+          "510106": "Jinniu District",
+          "510107": "Wuhou District",
+          "510108": "Chenghua District",
+          "510112": "Longquanyi District",
+          "510113": "Qingbaijiang District",
+          "510114": "Xindu District",
+          "510115": "Wenjiang District",
+          "510116": "Shuangliu District",
+          "510117": "Pidu District",
+          "510121": "Jintang County",
+          "510129": "Dayi County",
+          "510131": "Pujiang County",
+          "510132": "Xinjin County",
+          "510181": "Dujiangyan City",
+          "510182": "Pengzhou",
+          "510183": "Qionglai City",
+          "510184": "Chongzhou",
+          "510185": "Jianyang"
+        }
+      },
+      "510300": {
+        "code": "510300",
+        "name": "Zigong City",
+        "districts": {
+          "510302": "Ziliujing area",
+          "510303": "Gongjing District",
+          "510304": "Da'an District",
+          "510311": "Coastal area",
+          "510321": "Rong County",
+          "510322": "Fushun County"
+        }
+      },
+      "510400": {
+        "code": "510400",
+        "name": "Panzhihua",
+        "districts": {
+          "510402": "Eastern District",
+          "510403": "West District",
+          "510411": "Renhe District",
+          "510421": "Miyi County",
+          "510422": "Yanbian County"
+        }
+      },
+      "510500": {
+        "code": "510500",
+        "name": "Luzhou",
+        "districts": {
+          "510502": "Jiangyang District",
+          "510503": "Naxi District",
+          "510504": "Longmatan District",
+          "510521": "Lu County",
+          "510522": "Hejiang County",
+          "510524": "Xuyong County",
+          "510525": "Gulin County"
+        }
+      },
+      "510600": {
+        "code": "510600",
+        "name": "Deyang City",
+        "districts": {
+          "510603": "Jingyang District",
+          "510604": "Luojiang District",
+          "510623": "Zhongjiang County",
+          "510681": "Guanghan City",
+          "510682": "Shifang",
+          "510683": "Mianzhu City"
+        }
+      },
+      "510700": {
+        "code": "510700",
+        "name": "Mianyang City",
+        "districts": {
+          "510703": "Fucheng District",
+          "510704": "Youxian District",
+          "510705": "Anzhou District",
+          "510722": "Santai County",
+          "510723": "Yanting County",
+          "510725": "Zitong County",
+          "510726": "Beichuan Qiang Autonomous County",
+          "510727": "Pingwu County",
+          "510781": "Jiangyou City"
+        }
+      },
+      "510800": {
+        "code": "510800",
+        "name": "Guangyuan City",
+        "districts": {
+          "510802": "Lizhou District",
+          "510811": "Zhaohua District",
+          "510812": "Chaotian District",
+          "510821": "Wangcang County",
+          "510822": "Qingchuan County",
+          "510823": "Jiange County",
+          "510824": "Cangxi County"
+        }
+      },
+      "510900": {
+        "code": "510900",
+        "name": "Suining City",
+        "districts": {
+          "510903": "Chuanshan District",
+          "510904": "Residential area",
+          "510921": "Pengxi County",
+          "510922": "Shehong County",
+          "510923": "Daying County"
+        }
+      },
+      "511000": {
+        "code": "511000",
+        "name": "Neijiang City",
+        "districts": {
+          "511002": "Shizhong District",
+          "511011": "Dongxing District",
+          "511024": "Weiyuan County",
+          "511025": "Zizhong County",
+          "511083": "Longchang City"
+        }
+      },
+      "511100": {
+        "code": "511100",
+        "name": "Leshan city",
+        "districts": {
+          "511102": "Shizhong District",
+          "511111": "Savan District",
+          "511112": "Wutongqiao District",
+          "511113": "Jinkouhe District",
+          "511123": "Qianwei County",
+          "511124": "Jingyan County",
+          "511126": "Jiajiang County",
+          "511129": "Muchuan County",
+          "511132": "Ebian Yi Autonomous County",
+          "511133": "Mabian Yi Autonomous County",
+          "511181": "Mount Emei"
+        }
+      },
+      "511300": {
+        "code": "511300",
+        "name": "Nanchong",
+        "districts": {
+          "511302": "Shunqing District",
+          "511303": "Gaoping District",
+          "511304": "Jialing District",
+          "511321": "Southern County",
+          "511322": "Yingshan County",
+          "511323": "Peng'an County",
+          "511324": "Yilong County",
+          "511325": "Xichong County",
+          "511381": "Langzhong"
+        }
+      },
+      "511400": {
+        "code": "511400",
+        "name": "Meishan City",
+        "districts": {
+          "511402": "Dongpo District",
+          "511403": "Pengshan District",
+          "511421": "Renshou County",
+          "511423": "Hongya County",
+          "511424": "Danling County",
+          "511425": "Qingshen County"
+        }
+      },
+      "511500": {
+        "code": "511500",
+        "name": "Yibin",
+        "districts": {
+          "511502": "Cuiping District",
+          "511503": "Nanxi District",
+          "511504": "Syria District",
+          "511523": "Jiang'an County",
+          "511524": "Changning County",
+          "511525": "Gao County",
+          "511526": "Gong County",
+          "511527": "Junlian County",
+          "511528": "Xingwen County",
+          "511529": "Pingshan County"
+        }
+      },
+      "511600": {
+        "code": "511600",
+        "name": "Guang'an",
+        "districts": {
+          "511602": "Guang'an District",
+          "511603": "forward area",
+          "511621": "Yuechi County",
+          "511622": "Wusheng County",
+          "511623": "Linshui County",
+          "511681": "Huaying City"
+        }
+      },
+      "511700": {
+        "code": "511700",
+        "name": "Dazhou",
+        "districts": {
+          "511702": "Tongchuan District",
+          "511703": "Dachuan District",
+          "511722": "Xuanhan County",
+          "511723": "Kaijiang County",
+          "511724": "Dazhu County",
+          "511725": "Qu County",
+          "511781": "Wanyuan City"
+        }
+      },
+      "511800": {
+        "code": "511800",
+        "name": "Ya'an city",
+        "districts": {
+          "511802": "Yucheng District",
+          "511803": "Mingshan District",
+          "511822": "Yingjing County",
+          "511823": "Hanyuan County",
+          "511824": "Shimian County",
+          "511825": "Tianquan County",
+          "511826": "Lushan County",
+          "511827": "Baoxing County"
+        }
+      },
+      "511900": {
+        "code": "511900",
+        "name": "Bazhong City",
+        "districts": {
+          "511902": "Bazhou District",
+          "511903": "Enyang District",
+          "511921": "Tongjiang County",
+          "511922": "Nanjiang County",
+          "511923": "Pingchang County"
+        }
+      },
+      "512000": {
+        "code": "512000",
+        "name": "Ziyang City",
+        "districts": {
+          "512002": "Yanjiang District",
+          "512021": "Anyue County",
+          "512022": "Lezhi County"
+        }
+      },
+      "513200": {
+        "code": "513200",
+        "name": "Aba Tibetan and Qiang Autonomous Prefecture",
+        "districts": {
+          "513201": "Malcolm",
+          "513221": "Wenchuan County",
+          "513222": "Li County",
+          "513223": "Mao County",
+          "513224": "Songpan County",
+          "513225": "Jiuzhaigou County",
+          "513226": "Jinchuan County",
+          "513227": "Xiaojin County",
+          "513228": "Heishui County",
+          "513230": "Rangtang County",
+          "513231": "Aba County",
+          "513232": "Zoige County",
+          "513233": "Hongyuan County"
+        }
+      },
+      "513300": {
+        "code": "513300",
+        "name": "Ganzi Tibetan Autonomous Prefecture",
+        "districts": {
+          "513301": "Kangding",
+          "513322": "Luding County",
+          "513323": "Danba County",
+          "513324": "Kowloon County",
+          "513325": "Yajiang County",
+          "513326": "Daofu County",
+          "513327": "Luhuo County",
+          "513328": "Ganzi County",
+          "513329": "Xinlong County",
+          "513330": "Dege County",
+          "513331": "Baiyu County",
+          "513332": "Shiqu County",
+          "513333": "Seda County",
+          "513334": "Litang County",
+          "513335": "Batang County",
+          "513336": "Xiangcheng County",
+          "513337": "Daocheng County",
+          "513338": "Derong County"
+        }
+      },
+      "513400": {
+        "code": "513400",
+        "name": "Liangshan Yi Autonomous Prefecture",
+        "districts": {
+          "513401": "Xichang City",
+          "513422": "Muli Tibetan Autonomous County",
+          "513423": "Yanyuan County",
+          "513424": "Dechang County",
+          "513425": "Huili County",
+          "513426": "Huidong County",
+          "513427": "Ningnan County",
+          "513428": "Puig County",
+          "513429": "Butuo County",
+          "513430": "Jinyang County",
+          "513431": "Zhaojue County",
+          "513432": "Xide County",
+          "513433": "Mianning County",
+          "513434": "Yuexi County",
+          "513435": "Ganluo County",
+          "513436": "Meigu County",
+          "513437": "Leibo County"
+        }
+      }
+    }
+  },
+  "520000": {
+    "code": "520000",
+    "name": "Guizhou Province",
+    "cities": {
+      "520100": {
+        "code": "520100",
+        "name": "Guiyang City",
+        "districts": {
+          "520102": "Nanming District",
+          "520103": "Yunyan District",
+          "520111": "Huaxi District",
+          "520112": "Udang District",
+          "520113": "Baiyun District",
+          "520115": "Guanshan Lake District",
+          "520121": "Kaiyang County",
+          "520122": "Xifeng County",
+          "520123": "Xiuwen County",
+          "520181": "Qingzhen"
+        }
+      },
+      "520200": {
+        "code": "520200",
+        "name": "Liupanshui",
+        "districts": {
+          "520201": "Zhongshan District",
+          "520203": "Liuzhi Special Zone",
+          "520221": "Shuicheng County",
+          "520281": "Panzhou"
+        }
+      },
+      "520300": {
+        "code": "520300",
+        "name": "Zunyi City",
+        "districts": {
+          "520302": "Honghuagang District",
+          "520303": "Huichuan District",
+          "520304": "Banshu District",
+          "520322": "Tongzi County",
+          "520323": "Suiyang County",
+          "520324": "Zheng'an County",
+          "520325": "Daozhen Gelao and Miao Autonomous County",
+          "520326": "Wuchuan Gelao and Miao Autonomous County",
+          "520327": "Fenggang County",
+          "520328": "Meitan County",
+          "520329": "Yuqing County",
+          "520330": "Xishui County",
+          "520381": "Chishui City",
+          "520382": "Renhuai City"
+        }
+      },
+      "520400": {
+        "code": "520400",
+        "name": "Anshun City",
+        "districts": {
+          "520402": "Xixiu District",
+          "520403": "Pingba District",
+          "520422": "Puding County",
+          "520423": "Zhenning Buyi and Miao Autonomous County",
+          "520424": "Guanling Buyi and Miao Autonomous County",
+          "520425": "Ziyun Miao and Buyi Autonomous County"
+        }
+      },
+      "520500": {
+        "code": "520500",
+        "name": "Bijie City",
+        "districts": {
+          "520502": "Qixingguan District",
+          "520521": "Dafang County",
+          "520522": "Qianxi County",
+          "520523": "Jinsha County",
+          "520524": "Zhijin County",
+          "520525": "Nayong County",
+          "520526": "Weining Yi Hui and Miao Autonomous County",
+          "520527": "Hezhang County"
+        }
+      },
+      "520600": {
+        "code": "520600",
+        "name": "Tongren City",
+        "districts": {
+          "520602": "Bijiang District",
+          "520603": "Wanshan District",
+          "520621": "Jiangkou County",
+          "520622": "Yuping Dong Autonomous County",
+          "520623": "Shiqian County",
+          "520624": "Sinan County",
+          "520625": "Yinjiang Tujia and Miao Autonomous County",
+          "520626": "Dejiang County",
+          "520627": "Yanhe Tujia Autonomous County",
+          "520628": "Songtao Miao Autonomous County"
+        }
+      },
+      "522300": {
+        "code": "522300",
+        "name": "Qianxinan Buyi and Miao Autonomous Prefecture",
+        "districts": {
+          "522301": "Xingyi City",
+          "522302": "Xingren City",
+          "522323": "Pu'an County",
+          "522324": "Qinglong County",
+          "522325": "Zhenfeng County",
+          "522326": "Wangmo County",
+          "522327": "Ceheng County",
+          "522328": "Anlong County"
+        }
+      },
+      "522600": {
+        "code": "522600",
+        "name": "Qiandongnan Miao and Dong Autonomous Prefecture",
+        "districts": {
+          "522601": "Kerry",
+          "522622": "Huangping County",
+          "522623": "Shibing County",
+          "522624": "Sansui County",
+          "522625": "Zhenyuan County",
+          "522626": "Cengong County",
+          "522627": "Tianzhu County",
+          "522628": "Jinping County",
+          "522629": "Jianhe County",
+          "522630": "Taijiang County",
+          "522631": "Liping County",
+          "522632": "Rongjiang County",
+          "522633": "Congjiang County",
+          "522634": "Leishan County",
+          "522635": "Majiang County",
+          "522636": "Danzhai County"
+        }
+      },
+      "522700": {
+        "code": "522700",
+        "name": "Qiannan Buyi and Miao Autonomous Prefecture",
+        "districts": {
+          "522701": "Duyun City",
+          "522702": "Fuquan City",
+          "522722": "Libo County",
+          "522723": "Guiding County",
+          "522725": "Weng'an County",
+          "522726": "Dushan County",
+          "522727": "Pingtang County",
+          "522728": "Luodian County",
+          "522729": "Changshun County",
+          "522730": "Longli County",
+          "522731": "Huishui County",
+          "522732": "Sandu Shui Autonomous County"
+        }
+      }
+    }
+  },
+  "530000": {
+    "code": "530000",
+    "name": "Yunnan Province",
+    "cities": {
+      "530100": {
+        "code": "530100",
+        "name": "Kunming",
+        "districts": {
+          "530102": "Wuhua District",
+          "530103": "Panlong District",
+          "530111": "Guandu District",
+          "530112": "Xishan District",
+          "530113": "Dongchuan District",
+          "530114": "Chenggong District",
+          "530115": "Jinning District",
+          "530124": "Fumin County",
+          "530125": "Yiliang County",
+          "530126": "Shilin Yi Autonomous County",
+          "530127": "Songming County",
+          "530128": "Luquan Yi and Miao Autonomous County",
+          "530129": "Xundian Hui and Yi Autonomous County",
+          "530181": "Anning City"
+        }
+      },
+      "530300": {
+        "code": "530300",
+        "name": "Qujing City",
+        "districts": {
+          "530302": "Kylin District",
+          "530303": "Zhanyi District",
+          "530304": "Malone District",
+          "530322": "Luliang County",
+          "530323": "Shizong County",
+          "530324": "Luoping County",
+          "530325": "Fuyuan County",
+          "530326": "Huize County",
+          "530381": "Xuanwei City"
+        }
+      },
+      "530400": {
+        "code": "530400",
+        "name": "Yuxi City",
+        "districts": {
+          "530402": "Hongta District",
+          "530403": "Jiangchuan District",
+          "530422": "Chengjiang County",
+          "530423": "Tonghai County",
+          "530424": "Huaning County",
+          "530425": "Yimen County",
+          "530426": "Eshan Yi Autonomous County",
+          "530427": "Xinping Yi and Dai Autonomous County",
+          "530428": "Yuanjiang Hani, Yi and Dai Autonomous County"
+        }
+      },
+      "530500": {
+        "code": "530500",
+        "name": "Baoshan",
+        "districts": {
+          "530502": "Longyang District",
+          "530521": "Shidian County",
+          "530523": "Longling County",
+          "530524": "Changning County",
+          "530581": "Tengchong"
+        }
+      },
+      "530600": {
+        "code": "530600",
+        "name": "Zhaotong",
+        "districts": {
+          "530602": "Zhaoyang District",
+          "530621": "Ludian County",
+          "530622": "Qiaojia County",
+          "530623": "Yanjin County",
+          "530624": "Daguan County",
+          "530625": "Yongshan County",
+          "530626": "Suijiang County",
+          "530627": "Zhenxiong County",
+          "530628": "Yiliang County",
+          "530629": "Weixin County",
+          "530681": "Mizutomi"
+        }
+      },
+      "530700": {
+        "code": "530700",
+        "name": "Lijiang",
+        "districts": {
+          "530702": "ancient city",
+          "530721": "Yulong Naxi Autonomous County",
+          "530722": "Yongsheng County",
+          "530723": "Huaping County",
+          "530724": "Ninglang Yi Autonomous County"
+        }
+      },
+      "530800": {
+        "code": "530800",
+        "name": "Pu'er City",
+        "districts": {
+          "530802": "Simao District",
+          "530821": "Ning'er Hani and Yi Autonomous County",
+          "530822": "Mojiang Hani Autonomous County",
+          "530823": "Jingdong Yi Autonomous County",
+          "530824": "Jinggu Dai and Yi Autonomous County",
+          "530825": "Zhenyuan Yi Hani and Lahu Autonomous County",
+          "530826": "Jiangcheng Hani and Yi Autonomous County",
+          "530827": "Menglian Dai Lahu and Wa Autonomous County",
+          "530828": "Lancang Lahu Autonomous County",
+          "530829": "Ximeng Wa Autonomous County"
+        }
+      },
+      "530900": {
+        "code": "530900",
+        "name": "Lincang",
+        "districts": {
+          "530902": "Linxiang District",
+          "530921": "Fengqing County",
+          "530922": "Yun County",
+          "530923": "Yongde County",
+          "530924": "Zhenkang County",
+          "530925": "Shuangjiang Lahu, Wa, Blang and Dai Autonomous County",
+          "530926": "Gengma Dai and Wa Autonomous County",
+          "530927": "Cangyuan Wa Autonomous County"
+        }
+      },
+      "532300": {
+        "code": "532300",
+        "name": "Chuxiong Yi Autonomous Prefecture",
+        "districts": {
+          "532301": "Chuxiong",
+          "532322": "Shuangbai County",
+          "532323": "Mouding County",
+          "532324": "Nanhua County",
+          "532325": "Yao'an County",
+          "532326": "Dayao County",
+          "532327": "Yongren County",
+          "532328": "Yuanmou County",
+          "532329": "Wuding County",
+          "532331": "Lufeng County"
+        }
+      },
+      "532500": {
+        "code": "532500",
+        "name": "Honghe Hani and Yi Autonomous Prefecture",
+        "districts": {
+          "532501": "Gejiu City",
+          "532502": "Kaiyuan City",
+          "532503": "Mengzi City",
+          "532504": "Maitreya City",
+          "532523": "Pingbian Miao Autonomous County",
+          "532524": "Jianshui County",
+          "532525": "Shiping County",
+          "532527": "Luxi County",
+          "532528": "Yuanyang County",
+          "532529": "Honghe County",
+          "532530": "Jinping Miao, Yao and Dai Autonomous County",
+          "532531": "Luchun County",
+          "532532": "Hekou Yao Autonomous County"
+        }
+      },
+      "532600": {
+        "code": "532600",
+        "name": "Wenshan Zhuang and Miao Autonomous Prefecture",
+        "districts": {
+          "532601": "Wenshan",
+          "532622": "Yanshan County",
+          "532623": "Xichou County",
+          "532624": "Malipo County",
+          "532625": "Maguan County",
+          "532626": "Qiubei County",
+          "532627": "Guangnan County",
+          "532628": "Funing County"
+        }
+      },
+      "532800": {
+        "code": "532800",
+        "name": "Xishuangbanna Dai Autonomous Prefecture",
+        "districts": {
+          "532801": "Jinghong City",
+          "532822": "Menghai County",
+          "532823": "Mengla County"
+        }
+      },
+      "532900": {
+        "code": "532900",
+        "name": "Dali Bai Autonomous Prefecture",
+        "districts": {
+          "532901": "Dali City",
+          "532922": "Yangbi Yi Autonomous County",
+          "532923": "Xiangyun County",
+          "532924": "Binchuan County",
+          "532925": "Midu County",
+          "532926": "Nanjian Yi Autonomous County",
+          "532927": "Weishan Yi and Hui Autonomous County",
+          "532928": "Yongping County",
+          "532929": "Yunlong County",
+          "532930": "Eryuan County",
+          "532931": "Jianchuan County",
+          "532932": "Heqing County"
+        }
+      },
+      "533100": {
+        "code": "533100",
+        "name": "Dehong Dai and Jingpo Autonomous Prefecture",
+        "districts": {
+          "533102": "Ruili City",
+          "533103": "Mangshi",
+          "533122": "Lianghe County",
+          "533123": "Yingjiang County",
+          "533124": "Longchuan County"
+        }
+      },
+      "533300": {
+        "code": "533300",
+        "name": "Nujiang Lisu Autonomous Prefecture",
+        "districts": {
+          "533301": "Lushui City",
+          "533323": "Fugong County",
+          "533324": "Gongshan Dulong and Nu Autonomous County",
+          "533325": "Lanping Bai and Pumi Autonomous County"
+        }
+      },
+      "533400": {
+        "code": "533400",
+        "name": "Diqing Tibetan Autonomous Prefecture",
+        "districts": {
+          "533401": "Shangri-la",
+          "533422": "Deqin County",
+          "533423": "Weixi Lisu Autonomous County"
+        }
+      }
+    }
+  },
+  "540000": {
+    "code": "540000",
+    "name": "Tibet Autonomous Region",
+    "cities": {
+      "540100": {
+        "code": "540100",
+        "name": "Lhasa",
+        "districts": {
+          "540102": "Chengguan District",
+          "540103": "Duilongdeqing District",
+          "540104": "Dazi District",
+          "540121": "Linzhou County",
+          "540122": "Damxung County",
+          "540123": "Nimu County",
+          "540124": "Qushui County",
+          "540127": "Mozhugongka County"
+        }
+      },
+      "540200": {
+        "code": "540200",
+        "name": "Shigatse",
+        "districts": {
+          "540202": "Sangzhuzi District",
+          "540221": "Nanmulin County",
+          "540222": "Gyantse County",
+          "540223": "Tingri County",
+          "540224": "Sakya County",
+          "540225": "Lazi County",
+          "540226": "Angren County",
+          "540227": "Xietongmen County",
+          "540228": "Bailang County",
+          "540229": "Renbu County",
+          "540230": "comma county",
+          "540231": "Dingjie County",
+          "540232": "Zhongba County",
+          "540233": "Yadong County",
+          "540234": "Geelong County",
+          "540235": "Nyalam County",
+          "540236": "Saga County",
+          "540237": "Gamba County"
+        }
+      },
+      "540300": {
+        "code": "540300",
+        "name": "Qamdo",
+        "districts": {
+          "540302": "Karo District",
+          "540321": "Jiangda County",
+          "540322": "Gongjue County",
+          "540323": "Leiwuqi County",
+          "540324": "Dingqing County",
+          "540325": "Chaya County",
+          "540326": "Basu County",
+          "540327": "Zuogong County",
+          "540328": "Mangkang County",
+          "540329": "Lolong County",
+          "540330": "Bianba County"
+        }
+      },
+      "540400": {
+        "code": "540400",
+        "name": "Nyingchi",
+        "districts": {
+          "540402": "Bayi District",
+          "540421": "Gongbu Jiangda County",
+          "540422": "Millin County",
+          "540423": "Medog County",
+          "540424": "Bomi County",
+          "540425": "Zayu County",
+          "540426": "Long County"
+        }
+      },
+      "540500": {
+        "code": "540500",
+        "name": "Shannan City",
+        "districts": {
+          "540502": "Naidong District",
+          "540521": "Zha Nang County",
+          "540522": "Gongga County",
+          "540523": "Sange County",
+          "540524": "Qiongjie County",
+          "540525": "Qusong County",
+          "540526": "Cuomei County",
+          "540527": "Loza County",
+          "540528": "Gacha County",
+          "540529": "Longzi County",
+          "540530": "Cona County",
+          "540531": "Langkazi County"
+        }
+      },
+      "540600": {
+        "code": "540600",
+        "name": "Nagqu",
+        "districts": {
+          "540602": "Senegal",
+          "540621": "Jiali County",
+          "540622": "such as county",
+          "540623": "Nierong County",
+          "540624": "Ando County",
+          "540625": "Shenza County",
+          "540626": "Saw County",
+          "540627": "Bangor County",
+          "540628": "Baqing County",
+          "540629": "Nyima County",
+          "540630": "Shuanghu County"
+        }
+      },
+      "542500": {
+        "code": "542500",
+        "name": "Ngari area",
+        "districts": {
+          "542521": "Plain County",
+          "542522": "Zanda County",
+          "542523": "Gar County",
+          "542524": "Ritu County",
+          "542525": "Geji County",
+          "542526": "Gaize County",
+          "542527": "Cuoqin County"
+        }
+      }
+    }
+  },
+  "610000": {
+    "code": "610000",
+    "name": "Shaanxi Province",
+    "cities": {
+      "610100": {
+        "code": "610100",
+        "name": "Xi'an",
+        "districts": {
+          "610102": "New town area",
+          "610103": "Beilin District",
+          "610104": "Lianhu District",
+          "610111": "Baqiao District",
+          "610112": "Weiyang District",
+          "610113": "Yanta District",
+          "610114": "Yanliang District",
+          "610115": "Lintong District",
+          "610116": "Chang'an District",
+          "610117": "Gaoling District",
+          "610118": "Huyi District",
+          "610122": "Lantian County",
+          "610124": "Zhouzhi County"
+        }
+      },
+      "610200": {
+        "code": "610200",
+        "name": "Tongchuan City",
+        "districts": {
+          "610202": "Wang Yi District",
+          "610203": "India and Taiwan",
+          "610204": "Yaozhou District",
+          "610222": "Yijun County"
+        }
+      },
+      "610300": {
+        "code": "610300",
+        "name": "Baoji",
+        "districts": {
+          "610302": "Weibin District",
+          "610303": "Jintai District",
+          "610304": "Chencang District",
+          "610322": "Fengxiang County",
+          "610323": "Qishan County",
+          "610324": "Fufeng County",
+          "610326": "Mei County",
+          "610327": "Long County",
+          "610328": "Qianyang County",
+          "610329": "Linyou County",
+          "610330": "Feng County",
+          "610331": "Taibai County"
+        }
+      },
+      "610400": {
+        "code": "610400",
+        "name": "Xianyang",
+        "districts": {
+          "610402": "Qindu District",
+          "610403": "Yangling District",
+          "610404": "Weicheng District",
+          "610422": "Sanyuan County",
+          "610423": "Jingyang County",
+          "610424": "dry county",
+          "610425": "Liquan County",
+          "610426": "Yongshou County",
+          "610428": "Changwu County",
+          "610429": "Xunyi County",
+          "610430": "Chunhua County",
+          "610431": "Wugong County",
+          "610481": "Xingping City",
+          "610482": "Binzhou"
+        }
+      },
+      "610500": {
+        "code": "610500",
+        "name": "Weinan City",
+        "districts": {
+          "610502": "Linwei District",
+          "610503": "Huazhou District",
+          "610522": "Tongguan County",
+          "610523": "Dali County",
+          "610524": "Heyang County",
+          "610525": "Chengcheng County",
+          "610526": "Pucheng County",
+          "610527": "Baishui County",
+          "610528": "Fuping County",
+          "610581": "Hancheng",
+          "610582": "Huayin City"
+        }
+      },
+      "610600": {
+        "code": "610600",
+        "name": "Yan'an",
+        "districts": {
+          "610602": "Pagoda District",
+          "610603": "Anse District",
+          "610621": "Yanchang County",
+          "610622": "Yanchuan County",
+          "610623": "Zichang County",
+          "610625": "Zhidan County",
+          "610626": "Wuqi County",
+          "610627": "Ganquan County",
+          "610628": "Fu County",
+          "610629": "Luochuan County",
+          "610630": "Yichuan County",
+          "610631": "Huanglong County",
+          "610632": "Huangling County"
+        }
+      },
+      "610700": {
+        "code": "610700",
+        "name": "Hanzhong",
+        "districts": {
+          "610702": "Hantai District",
+          "610703": "Nanzheng District",
+          "610722": "Chenggu County",
+          "610723": "Yang County",
+          "610724": "Xixiang County",
+          "610725": "Mian County",
+          "610726": "Ningqiang County",
+          "610727": "Lueyang County",
+          "610728": "Zhenba County",
+          "610729": "Liuba County",
+          "610730": "Foping County"
+        }
+      },
+      "610800": {
+        "code": "610800",
+        "name": "Yulin",
+        "districts": {
+          "610802": "Yuyang District",
+          "610803": "Hengshan District",
+          "610822": "Fugu County",
+          "610824": "Jingbian County",
+          "610825": "Dingbian County",
+          "610826": "Suide County",
+          "610827": "Mizhi County",
+          "610828": "Jia County",
+          "610829": "Wubao County",
+          "610830": "Qingjian County",
+          "610831": "Zizhou County",
+          "610881": "Shenmu City"
+        }
+      },
+      "610900": {
+        "code": "610900",
+        "name": "Ankang",
+        "districts": {
+          "610902": "Hanbin District",
+          "610921": "Hanyin County",
+          "610922": "Shiquan County",
+          "610923": "Ningshan County",
+          "610924": "Ziyang County",
+          "610925": "Langao County",
+          "610926": "Pingli County",
+          "610927": "Zhenping County",
+          "610928": "Xunyang County",
+          "610929": "Baihe County"
+        }
+      },
+      "611000": {
+        "code": "611000",
+        "name": "Shangluo",
+        "districts": {
+          "611002": "Shangzhou District",
+          "611021": "Luonan County",
+          "611022": "Danfeng County",
+          "611023": "Shangnan County",
+          "611024": "Shanyang County",
+          "611025": "Zhen'an County",
+          "611026": "Zhashui County"
+        }
+      }
+    }
+  },
+  "620000": {
+    "code": "620000",
+    "name": "Gansu province",
+    "cities": {
+      "620100": {
+        "code": "620100",
+        "name": "Lan'Zhou City",
+        "districts": {
+          "620102": "Chengguan District",
+          "620103": "Qilihe District",
+          "620104": "Xigu District",
+          "620105": "Anning District",
+          "620111": "Honggu District",
+          "620121": "Yongdeng County",
+          "620122": "Gaolan County",
+          "620123": "Yuzhong County"
+        }
+      },
+      "620200": {
+        "code": "620200",
+        "name": "Jiayuguan",
+        "districts": {}
+      },
+      "620300": {
+        "code": "620300",
+        "name": "Jinchang City",
+        "districts": {
+          "620302": "Jinchuan District",
+          "620321": "Yongchang County"
+        }
+      },
+      "620400": {
+        "code": "620400",
+        "name": "Baiyin City",
+        "districts": {
+          "620402": "silver district",
+          "620403": "Pingchuan District",
+          "620421": "Jingyuan County",
+          "620422": "Huining County",
+          "620423": "Jingtai County"
+        }
+      },
+      "620500": {
+        "code": "620500",
+        "name": "Tianshui City",
+        "districts": {
+          "620502": "Qinzhou District",
+          "620503": "Maiji District",
+          "620521": "Qingshui County",
+          "620522": "Qin'an County",
+          "620523": "Gangu County",
+          "620524": "Wushan County",
+          "620525": "Zhangjiachuan Hui Autonomous County"
+        }
+      },
+      "620600": {
+        "code": "620600",
+        "name": "Wuwei City",
+        "districts": {
+          "620602": "Liangzhou District",
+          "620621": "Minqin County",
+          "620622": "Gulang County",
+          "620623": "Tianzhu Tibetan Autonomous County"
+        }
+      },
+      "620700": {
+        "code": "620700",
+        "name": "Zhangye City",
+        "districts": {
+          "620702": "Ganzhou District",
+          "620721": "Sunan Yugur Autonomous County",
+          "620722": "Minle County",
+          "620723": "Linze County",
+          "620724": "Gaotai County",
+          "620725": "Shandan County"
+        }
+      },
+      "620800": {
+        "code": "620800",
+        "name": "Pingliang City",
+        "districts": {
+          "620802": "Kongtong District",
+          "620821": "Jingchuan County",
+          "620822": "Lingtai County",
+          "620823": "Chongxin County",
+          "620825": "Zhuanglang County",
+          "620826": "Jingning County",
+          "620881": "Huating City"
+        }
+      },
+      "620900": {
+        "code": "620900",
+        "name": "Jiuquan City",
+        "districts": {
+          "620902": "Suzhou District",
+          "620921": "Jinta County",
+          "620922": "Guazhou County",
+          "620923": "Subei Mongolian Autonomous County",
+          "620924": "Aksai Kazakh Autonomous County",
+          "620981": "Yumen",
+          "620982": "Dunhuang"
+        }
+      },
+      "621000": {
+        "code": "621000",
+        "name": "Qingyang City",
+        "districts": {
+          "621002": "West Peak District",
+          "621021": "Qingcheng County",
+          "621022": "Huan County",
+          "621023": "Huachi County",
+          "621024": "Heshui County",
+          "621025": "Zhengning County",
+          "621026": "Ning County",
+          "621027": "Zhenyuan County"
+        }
+      },
+      "621100": {
+        "code": "621100",
+        "name": "Dingxi",
+        "districts": {
+          "621102": "stable area",
+          "621121": "Tongwei County",
+          "621122": "Longxi County",
+          "621123": "Weiyuan County",
+          "621124": "Lintao County",
+          "621125": "Zhang County",
+          "621126": "Min County"
+        }
+      },
+      "621200": {
+        "code": "621200",
+        "name": "Longnan City",
+        "districts": {
+          "621202": "Wudu District",
+          "621221": "Cheng County",
+          "621222": "Wen County",
+          "621223": "Dangchang County",
+          "621224": "Kang County",
+          "621225": "Xihe County",
+          "621226": "Li County",
+          "621227": "Hui County",
+          "621228": "Liangdang County"
+        }
+      },
+      "622900": {
+        "code": "622900",
+        "name": "Linxia Hui Autonomous Prefecture",
+        "districts": {
+          "622901": "Linxia",
+          "622921": "Linxia County",
+          "622922": "Kangle County",
+          "622923": "Yongjing County",
+          "622924": "Guanghe County",
+          "622925": "Hezheng County",
+          "622926": "Dongxiang Autonomous County",
+          "622927": "Jishishan Baoan Dongxiang Salar Autonomous County"
+        }
+      },
+      "623000": {
+        "code": "623000",
+        "name": "Gannan Tibetan Autonomous Prefecture",
+        "districts": {
+          "623001": "cooperation city",
+          "623021": "Lintan County",
+          "623022": "Zhuoni County",
+          "623023": "Zhouqu County",
+          "623024": "Diebu County",
+          "623025": "Maqu County",
+          "623026": "Luqu County",
+          "623027": "Xiahe County"
+        }
+      }
+    }
+  },
+  "630000": {
+    "code": "630000",
+    "name": "Qinghai Province",
+    "cities": {
+      "630100": {
+        "code": "630100",
+        "name": "Xining",
+        "districts": {
+          "630102": "Seongdong-gu",
+          "630103": "Chengzhong District",
+          "630104": "Chengxi District",
+          "630105": "Chengbei District",
+          "630121": "Datong Hui and Tu Autonomous County",
+          "630122": "Huangzhong County",
+          "630123": "Huangyuan County"
+        }
+      },
+      "630200": {
+        "code": "630200",
+        "name": "Haidong City",
+        "districts": {
+          "630202": "Ledu District",
+          "630203": "Ping An District",
+          "630222": "Minhe Hui and Tu Autonomous County",
+          "630223": "Huzhu Tu Autonomous County",
+          "630224": "Hualong Hui Autonomous County",
+          "630225": "Xunhua Salar Autonomous County"
+        }
+      },
+      "632200": {
+        "code": "632200",
+        "name": "Haibei Tibetan Autonomous Prefecture",
+        "districts": {
+          "632221": "Menyuan Hui Autonomous County",
+          "632222": "Qilian County",
+          "632223": "Haiyan County",
+          "632224": "Gangcha County"
+        }
+      },
+      "632300": {
+        "code": "632300",
+        "name": "Huangnan Tibetan Autonomous Prefecture",
+        "districts": {
+          "632321": "Tongren County",
+          "632322": "Jianzha County",
+          "632323": "Zeku County",
+          "632324": "Henan Mongolian Autonomous County"
+        }
+      },
+      "632500": {
+        "code": "632500",
+        "name": "Hainan Tibetan Autonomous Prefecture",
+        "districts": {
+          "632521": "Republic County",
+          "632522": "Tongde County",
+          "632523": "Guide County",
+          "632524": "Xinghai County",
+          "632525": "Guinan County"
+        }
+      },
+      "632600": {
+        "code": "632600",
+        "name": "Golog Tibetan Autonomous Prefecture",
+        "districts": {
+          "632621": "Maqin County",
+          "632622": "Banma County",
+          "632623": "Gander County",
+          "632624": "Dari County",
+          "632625": "Jiuzhi County",
+          "632626": "Maduo County"
+        }
+      },
+      "632700": {
+        "code": "632700",
+        "name": "Yushu Tibetan Autonomous Prefecture",
+        "districts": {
+          "632701": "Yushu City",
+          "632722": "Zaduo County",
+          "632723": "Chengduo County",
+          "632724": "Zhiduo County",
+          "632725": "Nangqian County",
+          "632726": "Qumalai County"
+        }
+      },
+      "632800": {
+        "code": "632800",
+        "name": "Haixi Mongolian and Tibetan Autonomous Prefecture",
+        "districts": {
+          "632801": "Golmud",
+          "632802": "Delingha",
+          "632803": "Mangya City",
+          "632821": "Ulan County",
+          "632822": "Dulan County",
+          "632823": "Tianjun County"
+        }
+      }
+    }
+  },
+  "640000": {
+    "code": "640000",
+    "name": "Ningxia Hui Autonomous Region",
+    "cities": {
+      "640100": {
+        "code": "640100",
+        "name": "Yinchuan",
+        "districts": {
+          "640104": "Xingqing District",
+          "640105": "Xixia District",
+          "640106": "Jinfeng District",
+          "640121": "Yongning County",
+          "640122": "Helan County",
+          "640181": "Lingwu City"
+        }
+      },
+      "640200": {
+        "code": "640200",
+        "name": "Shizuishan City",
+        "districts": {
+          "640202": "Dawukou District",
+          "640205": "Huinong District",
+          "640221": "Pingluo County"
+        }
+      },
+      "640300": {
+        "code": "640300",
+        "name": "Wuzhong City",
+        "districts": {
+          "640302": "Litong District",
+          "640303": "Hongsibao District",
+          "640323": "Yanchi County",
+          "640324": "Tongxin County",
+          "640381": "Qingtongxia City"
+        }
+      },
+      "640400": {
+        "code": "640400",
+        "name": "Guyuan City",
+        "districts": {
+          "640402": "Wonju District",
+          "640422": "Xiji County",
+          "640423": "Lund County",
+          "640424": "Jingyuan County",
+          "640425": "Pengyang County"
+        }
+      },
+      "640500": {
+        "code": "640500",
+        "name": "Zhongwei City",
+        "districts": {
+          "640502": "Shapotou District",
+          "640521": "Zhongning County",
+          "640522": "Haiyuan County"
+        }
+      }
+    }
+  },
+  "650000": {
+    "code": "650000",
+    "name": "Xinjiang Uygur Autonomous Region",
+    "cities": {
+      "650100": {
+        "code": "650100",
+        "name": "Urumqi",
+        "districts": {
+          "650102": "Tianshan District",
+          "650103": "Shaybak District",
+          "650104": "new urban area",
+          "650105": "Shuimogou District",
+          "650106": "Toutunhe District",
+          "650107": "Daban District",
+          "650109": "Midong District",
+          "650121": "Urumqi County"
+        }
+      },
+      "650200": {
+        "code": "650200",
+        "name": "Karamay",
+        "districts": {
+          "650202": "Dushanzi District",
+          "650203": "Karamay District",
+          "650204": "Baijiantan District",
+          "650205": "Wuerhe District"
+        }
+      },
+      "650400": {
+        "code": "650400",
+        "name": "Turpan",
+        "districts": {
+          "650402": "Gaochang District",
+          "650421": "Shanshan County",
+          "650422": "Tocson County"
+        }
+      },
+      "650500": {
+        "code": "650500",
+        "name": "Hami City",
+        "districts": {
+          "650502": "Illinois District",
+          "650521": "Barkol Kazakh Autonomous County",
+          "650522": "Yiwu County"
+        }
+      },
+      "652300": {
+        "code": "652300",
+        "name": "Changji Hui Autonomous Prefecture",
+        "districts": {
+          "652301": "Changji City",
+          "652302": "Fukang",
+          "652323": "Hutubi County",
+          "652324": "Manas County",
+          "652325": "Qitai County",
+          "652327": "Jimsar County",
+          "652328": "Mulei Kazakh Autonomous County"
+        }
+      },
+      "652700": {
+        "code": "652700",
+        "name": "Bortala Mongolian Autonomous Prefecture",
+        "districts": {
+          "652701": "Bole",
+          "652702": "Alashankou City",
+          "652722": "Jinghe County",
+          "652723": "Hot Spring County"
+        }
+      },
+      "652800": {
+        "code": "652800",
+        "name": "Bayingolin Mongolian Autonomous Prefecture",
+        "districts": {
+          "652801": "Korla City",
+          "652822": "Luntai County",
+          "652823": "Yuli County",
+          "652824": "Ruoqiang County",
+          "652825": "Qiemo County",
+          "652826": "Yanqi Hui Autonomous County",
+          "652827": "Hejing County",
+          "652828": "Heshuo County",
+          "652829": "Bohu County"
+        }
+      },
+      "652900": {
+        "code": "652900",
+        "name": "Aksu area",
+        "districts": {
+          "652901": "Aksu",
+          "652922": "Wensu County",
+          "652923": "Kuqa County",
+          "652924": "Shaya County",
+          "652925": "Xinhe County",
+          "652926": "Baicheng County",
+          "652927": "Wushe County",
+          "652928": "Awati County",
+          "652929": "Keping County"
+        }
+      },
+      "653000": {
+        "code": "653000",
+        "name": "Kizilsu Kirgiz Autonomous Prefecture",
+        "districts": {
+          "653001": "Atus",
+          "653022": "Akto County",
+          "653023": "Aheqi County",
+          "653024": "Wuqia County"
+        }
+      },
+      "653100": {
+        "code": "653100",
+        "name": "Kashgar area",
+        "districts": {
+          "653101": "Kashgar",
+          "653121": "Shufu County",
+          "653122": "Shule County",
+          "653123": "Yingjisha County",
+          "653124": "Zepu County",
+          "653125": "Shache County",
+          "653126": "Yecheng County",
+          "653127": "Markit County",
+          "653128": "Yuepu Lake County",
+          "653129": "Jiashi County",
+          "653130": "Bachu County",
+          "653131": "Taxkorgan Tajik Autonomous County"
+        }
+      },
+      "653200": {
+        "code": "653200",
+        "name": "Hotan area",
+        "districts": {
+          "653201": "Wada City",
+          "653221": "Hetian County",
+          "653222": "Moyu County",
+          "653223": "Pishan County",
+          "653224": "Lop County",
+          "653225": "Celle",
+          "653226": "Yutian County",
+          "653227": "Minfeng County"
+        }
+      },
+      "654000": {
+        "code": "654000",
+        "name": "Ili Kazakh Autonomous Prefecture",
+        "districts": {
+          "654002": "Yining",
+          "654003": "Kuitun City",
+          "654004": "Khorgos",
+          "654021": "Yining County",
+          "654022": "Chabuchar Xibo Autonomous County",
+          "654023": "Huocheng County",
+          "654024": "Gongliu County",
+          "654025": "Xinyuan County",
+          "654026": "Zhaosu County",
+          "654027": "Turks County",
+          "654028": "Nilek County"
+        }
+      },
+      "654200": {
+        "code": "654200",
+        "name": "Tacheng area",
+        "districts": {
+          "654201": "Tacheng",
+          "654202": "Wusu City",
+          "654221": "Emin County",
+          "654223": "Shawan County",
+          "654224": "Torrey County",
+          "654225": "Yumin County",
+          "654226": "Hebukser Mongol Autonomous County"
+        }
+      },
+      "654300": {
+        "code": "654300",
+        "name": "Altay region",
+        "districts": {
+          "654301": "Altay City",
+          "654321": "Burqin County",
+          "654322": "Fuyun County",
+          "654323": "Fuhai County",
+          "654324": "Habahe County",
+          "654325": "Qinghe County",
+          "654326": "Jimunai County"
+        }
+      }
+    }
+  },
+  "810000": {
+    "code": "810000",
+    "name": "Hong Kong Special Administrative Region",
+    "cities": {
+      "810000": {
+        "code": "810000",
+        "name": "Hong Kong Special Administrative Region",
+        "districts": {
+          "810101": "Central and Western District",
+          "810102": "Wan Chai District",
+          "810103": "Eastern District",
+          "810104": "South area",
+          "810105": "Yau Tsim Mong District",
+          "810106": "Sham Shui Po District",
+          "810107": "Kowloon City District",
+          "810108": "Wong Tai Sin District",
+          "810109": "Kwun Tong District",
+          "810110": "North District",
+          "810111": "Tai Po District",
+          "810112": "Sha Tin District",
+          "810113": "Sai Kung District",
+          "810114": "Tsuen Wan District",
+          "810115": "Tuen Mun District",
+          "810116": "Yuen Long District",
+          "810117": "Kwai Tsing District",
+          "810118": "Islands District"
+        }
+      }
+    }
+  },
+  "820000": {
+    "code": "820000",
+    "name": "Macao Special Administrative Region",
+    "cities": {
+      "820000": {
+        "code": "820000",
+        "name": "Macao Special Administrative Region",
+        "districts": {
+          "820101": "Fatima Parish",
+          "820102": "St. Anthony's Parish",
+          "820103": "lobby area",
+          "820104": "Hope Parish",
+          "820105": "Fengshun Parish",
+          "820106": "Carmo Parish",
+          "820107": "Parish of St. Francis",
+          "820108": "Cotai",
+          "820109": "Macau Metro"
+        }
+      }
+    }
+  },
+  "830000": {
+    "code": "830000",
+    "name": "Taiwan Province",
+    "cities": {
+      "830100": {
+        "code": "830100",
+        "name": "Taipei City",
+        "districts": {
+          "830101": "Zhongzheng District",
+          "830102": "Datong District",
+          "830103": "Zhongshan Area",
+          "830104": "Wanhua District",
+          "830105": "Xinyi District",
+          "830106": "Songshan District",
+          "830107": "Da'an District",
+          "830108": "Nangang District",
+          "830109": "Beitou District",
+          "830110": "Neihu District",
+          "830111": "Shilin District",
+          "830112": "Wenshan District"
+        }
+      },
+      "830200": {
+        "code": "830200",
+        "name": "New Taipei City",
+        "districts": {
+          "830201": "Banqiao District",
+          "830202": "Tucheng District",
+          "830203": "Xinzhuang District",
+          "830204": "Xindian District",
+          "830205": "pit area",
+          "830206": "Shiding District",
+          "830207": "Pinglin District",
+          "830208": "Wulai District",
+          "830209": "Wugu District",
+          "830210": "Bali District",
+          "830211": "Linkou District",
+          "830212": "freshwater area",
+          "830213": "Zhonghe District",
+          "830214": "Yonghe District",
+          "830215": "Sanchong District",
+          "830216": "Luzhou District",
+          "830217": "Taishan District",
+          "830218": "wooded area",
+          "830219": "Yingge District",
+          "830220": "Three Gorges District",
+          "830221": "Xizhi District",
+          "830222": "Jinshan District",
+          "830223": "Wanli District",
+          "830224": "Sanzhi District",
+          "830225": "Shimen District",
+          "830226": "Ruifang District",
+          "830227": "Gongliao District",
+          "830228": "Shuangxi District",
+          "830229": "Pingxi District"
+        }
+      },
+      "830300": {
+        "code": "830300",
+        "name": "Taoyuan City",
+        "districts": {
+          "830301": "Taoyuan District",
+          "830302": "Zhongli District",
+          "830303": "Pingzhen District",
+          "830304": "Bade District",
+          "830305": "Yangmei District",
+          "830306": "Luzhu District",
+          "830307": "Daxi District",
+          "830308": "Longtan District",
+          "830309": "Guishan District",
+          "830310": "big park",
+          "830311": "Guanyin District",
+          "830312": "Xinwu District",
+          "830313": "Fuxing District"
+        }
+      },
+      "830400": {
+        "code": "830400",
+        "name": "Taichung",
+        "districts": {
+          "830401": "Central District",
+          "830402": "Eastern District",
+          "830403": "West District",
+          "830404": "South area",
+          "830405": "North District",
+          "830406": "Xitun District",
+          "830407": "Nantun District",
+          "830408": "Beitun District",
+          "830409": "Fengyuan District",
+          "830410": "Dali District",
+          "830411": "Taiping District",
+          "830412": "Dongshi District",
+          "830413": "Dajia District",
+          "830414": "Clearwater District",
+          "830415": "Shalu District",
+          "830416": "Wuqi District",
+          "830417": "Houli District",
+          "830418": "Kamioka",
+          "830419": "Tanzi District",
+          "830420": "Daya District",
+          "830421": "new community",
+          "830422": "Shigang District",
+          "830423": "Waipu District",
+          "830424": "Da'an District",
+          "830425": "Uri District",
+          "830426": "belly area",
+          "830427": "Longjing District",
+          "830428": "Wufeng District",
+          "830429": "Heping District"
+        }
+      },
+      "830500": {
+        "code": "830500",
+        "name": "Tainan City",
+        "districts": {
+          "830501": "Central and Western District",
+          "830502": "Eastern District",
+          "830503": "South area",
+          "830504": "North District",
+          "830505": "Anping District",
+          "830506": "Annan District",
+          "830507": "Yongkang District",
+          "830508": "Quy Nhon District",
+          "830509": "Xinhua District",
+          "830510": "Zuozhen District",
+          "830511": "Yujing District",
+          "830512": "Nanxi District",
+          "830513": "Nanhua District",
+          "830514": "Rende District",
+          "830515": "Guanmiao District",
+          "830516": "Ryugasaki Ward",
+          "830517": "Guantian District",
+          "830518": "Madou District",
+          "830519": "Jiali District",
+          "830520": "Westport District",
+          "830521": "Qigu District",
+          "830522": "general area",
+          "830523": "School A District",
+          "830524": "Beimen District",
+          "830525": "Xinying District",
+          "830526": "posterior wall area",
+          "830527": "Baihe District",
+          "830528": "Dongshan District",
+          "830529": "Liujia District",
+          "830530": "Xiaying District",
+          "830531": "Liuying District",
+          "830532": "salt water area",
+          "830533": "Shanhua District",
+          "830534": "Big Inner District",
+          "830535": "Yamagami District",
+          "830536": "new urban area",
+          "830537": "stable area"
+        }
+      },
+      "830600": {
+        "code": "830600",
+        "name": "kaohsiung city",
+        "districts": {
+          "830601": "Nanzi District",
+          "830602": "Zuoying District",
+          "830603": "Gushan District",
+          "830604": "Sanmin District",
+          "830605": "Yancheng District",
+          "830606": "Qianjin District",
+          "830607": "Xinxing District",
+          "830608": "Lingya District",
+          "830609": "former township",
+          "830610": "Cijin District",
+          "830611": "Xiaogang District",
+          "830612": "Fengshan District",
+          "830613": "Daliao District",
+          "830614": "Niaosong District",
+          "830615": "Forest Park",
+          "830616": "Renwu District",
+          "830617": "Dashu District",
+          "830618": "big community",
+          "830619": "Gangshan District",
+          "830620": "Luzhu District",
+          "830621": "Qiaotou District",
+          "830622": "Ziguan District",
+          "830623": "Amitabha District",
+          "830624": "Yong'an District",
+          "830625": "Yanchao District",
+          "830626": "Alian District",
+          "830627": "eggplant area",
+          "830628": "Lake District",
+          "830629": "Qishan District",
+          "830630": "Mino District",
+          "830631": "inner door area",
+          "830632": "Shanlin District",
+          "830633": "Jiaxian District",
+          "830634": "Liugui District",
+          "830635": "Maolin District",
+          "830636": "Taoyuan District",
+          "830637": "Namasya District"
+        }
+      },
+      "830700": {
+        "code": "830700",
+        "name": "Keelung",
+        "districts": {
+          "830701": "Zhongzheng District",
+          "830702": "Qidu District",
+          "830703": "warm zone",
+          "830704": "Ren'ai District",
+          "830705": "Zhongshan Area",
+          "830706": "Anle District",
+          "830707": "Xinyi District"
+        }
+      },
+      "830800": {
+        "code": "830800",
+        "name": "Hsinchu City",
+        "districts": {
+          "830801": "Eastern District",
+          "830802": "North District",
+          "830803": "Xiangshan District"
+        }
+      },
+      "830900": {
+        "code": "830900",
+        "name": "chiayi city",
+        "districts": {
+          "830901": "Eastern District",
+          "830902": "West District"
+        }
+      }
+    }
+  }
+}

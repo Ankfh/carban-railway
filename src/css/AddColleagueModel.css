@@ -1,0 +1,113 @@
+.rti--container {
+  background: #ffffff;
+  border: 1px solid #9d9d9d;
+  border-radius: 8px;
+  /* width: 484px; */
+  width: 100%;
+}
+
+.rti--container:focus-within {
+  /* border: 1.5px solid #31A246 !important; */
+  --rti-main: #31a246 !important;
+}
+
+
+.rti--tag {
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  background: #FBFBFB;
+  cursor: pointer;
+  font-family: 'Source Sans Pro';
+  padding-right: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #2c2c2c;
+  height: 24px;
+}
+.rti--tag button:hover{
+  color: #707070;
+}
+.rti--tag span{
+  color: #2C2C2C;
+}
+.addColleagueErrorClass span{
+  color: #DE3730;
+}
+.tagErrorSelected span{
+  color: #fff;
+}
+.addColleagueRightClass span{
+  color: #2C2C2C;
+}
+.addColleagueRightClass button{
+  color: #707070 !important;
+}
+.tagErrorSelected{
+  background: #DE3730 !important;
+  color: #fff !important;
+}
+.tagErrorSelected button{
+  color: #fff !important;
+}
+
+.addColleagueMenuMainDiv {
+  right: 0;
+  
+  /* display: none; */
+}
+
+.addcolleagueRolDiv {
+  position: absolute;
+  right: 0;
+  top: 9px;
+  font-family: 'Source Sans Pro';
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+}
+
+
+
+.rti--tag button {
+  color: #707070;
+  font-size: 12px;
+    padding-right: 5px;
+}
+.addColleagueErrorClass button {
+  color: #DE3730 ;
+}
+.addColleagueErrorClass button:hover {
+  color: #DE3730 ;
+}
+
+.tagRightSelected{
+  background: #E3F4E3;
+  border: 1px solid #40A63A;
+}
+.tagRightSelected button{
+  color: #31A246 !important;
+  
+}
+.tagRightSelected button:hover{
+  color: #31A246;
+}
+
+.addColleagueErrorClass{
+  background: #FFF8F7;
+border: 1px solid #DE3730;
+color: #DE3730;
+}
+
+/* .addcolleagueRolDiv:focus .addColleagueMenuMainDiv {
+  display: block;
+} */
+
+.addColleagueMenuMainDiv li:hover{
+  text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+}
