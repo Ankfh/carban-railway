@@ -1,0 +1,479 @@
+.profile_menu_div {
+  /* height: 64px;
+  width: 143px; */
+  border-radius: 0px;
+  padding: 12px 20px 12px 20px;
+  background-color: #ffffff;
+}
+
+.profile_menu_userName {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #5b5b5b;
+}
+
+.user_role {
+  font-family: "Source Sans Pro";
+
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.4000000059604645px;
+  text-align: left;
+  color: #9d9d9d;
+}
+
+.companyInfo_mainDiv {
+  /* height: 620px; */
+  /* width: 433px;
+  width: 100%; */
+
+  /* box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3),
+    0px 1px 3px 1px rgba(0, 0, 0, 0.15); */
+}
+
+.comanyInfo_titleBar {
+  height: 48px;
+  /* width: 493px; */
+  padding: 12px 14px 0px 14px;
+  background: #f5f5f5;
+  /* border-bottom: 1px solid #bebebe; */
+  border-radius: 8px 8px 0px 0px;
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+}
+
+.profileInputsLabel {
+  font-family: "Source Sans Pro";
+
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: left;
+  color: #707070;
+}
+
+.profileDivider {
+  border: 1px solid #f5f5f5;
+}
+
+.profileInputs {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #2c2c2c;
+}
+
+.profileEdit {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #31a246;
+}
+
+.contactInfo_mainDiv {
+  /* height: 620px; */
+  /* width: 433px; */
+  /* width: 100%; */
+  border: 1px solid #e7e7e7;
+  border-radius: 8px;
+  padding: 0px 0px 20px 0px;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3),
+    0px 1px 3px 1px rgba(0, 0, 0, 0.15);
+}
+
+.profileAccount_nvigation {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #707070;
+}
+
+.profileAccount_nvigation:focus .accountFocus_bar {
+  display: block;
+}
+/* .profileAccount_nvigation:focus {
+  color: #2c2c2c;
+} */
+
+.profileCertificate_nvigation {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+
+  color: #707070;
+}
+
+.profileCertificate_nvigation:focus .certificateFocus_Bar {
+  display: block;
+}
+.profileCertificate_nvigation:focus {
+  color: #2c2c2c;
+}
+
+.certificateFocus_Bar {
+  height: 3px;
+  /* width: 92px; */
+  background: #31a246;
+  border-radius: 2px;
+}
+
+.accountFocus_bar {
+  height: 3px;
+  width: 100%;
+  background: #31a246;
+  border-radius: 2px;
+}
+
+.profileViewMobiTopBar {
+  background: #ffffff;
+  padding: 8px 8px;
+  width: 100%;
+  height: 64px;
+ 
+}
+
+.profileViewMobiTopbartxt {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  color: #5b5b5b;
+}
+
+.profileMobi_topbarTextButton {
+  /* font-family: Open Sans; */
+  font-family: "Source Sans Pro";
+
+  color: #31a246;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.4399999976158142px;
+}
+
+.navigation-button-Mobi {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #707070;
+}
+
+.navigationContactInfo-button-Mobi {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #707070;
+}
+
+.navigationContactInfo-button-Mobi:focus {
+  color: #2c2c2c;
+}
+
+.navigationContactInfo-button-Mobi:focus .certificateFocus_Bar {
+  display: block;
+}
+
+.navigationCompanyInfo-button-Mobi {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #707070;
+}
+
+.navigationCompanyInfo-button-Mobi:focus {
+  color: #2c2c2c;
+}
+
+.navigationCompanyInfo-button-Mobi:focus .accountFocus_bar {
+  display: block;
+}
+
+.profileEditSaveButton {
+  height: 44px;
+  width: 140px;
+  left: 0px;
+  top: 0px;
+  border-radius: 4px;
+  padding: 10px 40px 10px 40px;
+  background: #57b353;
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ffffff;
+}
+.profileEditSaveButton:hover {
+  background: #31a246;
+}
+
+.profileEditCancelButton {
+  height: 44px;
+  width: 140px;
+  left: 156px;
+  top: 0px;
+  border-radius: 4px;
+  padding: 10px 40px 10px 40px;
+  border: 1px solid #3d3d3d;
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #3d3d3d;
+}
+
+.mobiBottomTabMainDiv {
+  height: 100%;
+  width: 100%;
+  border-radius: 0px;
+  padding: 0px 24px 0px 24px;
+  background: #ffffff;
+  /* Nav bottom */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  /* gap: 20px; */
+  box-shadow: 0px -2px 20px rgba(163, 180, 202, 0.2);
+}
+
+.mobiBottomTabInnerDiv {
+  height: 56px;
+  width: 107px;
+  border-radius: 0px;
+  padding: 0px 12px 0px 12px;
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #707070;
+}
+
+.bottomTabBorder {
+  border-top: 4px solid #31a246;
+}
+
+.addColleagueDilogDevider {
+  border: 1px solid #e7e7e7;
+}
+
+.addColleagueLabelDialog {
+  font-family: "Source Sans Pro";
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #707070;
+}
+
+.addColleagueEmailHelpText {
+  font-family: "Source Sans Pro";
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #9d9d9d;
+}
+
+.addColleagueDilogEmail {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #2c2c2c;
+}
+
+.addColleagueMenuUL {
+  height: 112px;
+  width: 120px;
+  background: #ffffff;
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3),
+    0px 2px 6px 2px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  padding: 8px 0px 8px 0px;
+}
+
+.companyInfoInnerDiv {
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.mobiCertificateTopBar {
+  padding: 12px 16px;
+
+  width: 100%;
+  height: 64px;
+  background: #ffffff;
+  /* Header */
+
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
+}
+
+.CertificateMobiBackButton {
+  font-family: "Source Sans Pro";
+
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.4399999976158142px;
+  text-align: left;
+  color: #31a246;
+}
+
+.certificateMobiTitle {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #5b5b5b;
+}
+
+.rti--input {
+  max-width: 86%;
+  width: 100%;
+  background: transparent;
+  color: #212121;
+}
+
+@media screen and (max-width: 550px) {
+  .rti--input {
+    max-width: 76% !important;
+  }
+}
+
+.snackbarMianDiv {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 226px;
+  height: 64px;
+  padding: 20px;
+}
+
+.snackbarText {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2e8028;
+}
+.deletePopsText{
+font-family: Source Sans Pro;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.5px;
+text-align: left;
+color: #2C2C2C;
+}
+@media screen and (max-width: 770px) {
+  .companyInfo_mainDiv {
+    /* height: 620px; */
+    /* width: 433px;
+    width: 100%; */
+    box-shadow: none;
+    border: none;
+  }
+
+  .comanyInfo_titleBar {
+    /* height: 48px; */
+    /* width: 493px; */
+    /* padding: 12px 20px 12px 20px; */
+    padding: 0px, 14px, 0px, 14px;
+    background: none;
+    border-radius: none;
+    border-bottom: none;
+  }
+
+  .profileShowAndHide {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 770px) {
+  .profileShowAndHide {
+    display: block;
+  }
+  .companyInfo_mainDiv {
+    background: #f5f5f5;
+    border-radius: 8px;
+    padding: 0px 12px 12px 12px;
+  }
+}
+.hover-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 262px;
+  height: 322px;
+  text-align: center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+
+border: 1px solid #F5F5F5;
+}
+
+@media screen and (max-width: 770px) {
+  .profileViewMobiTopBar{
+    box-shadow: 0px 1px 2px rgb(0 0 0 / 30%);
+  }
+
+}

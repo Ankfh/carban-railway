@@ -1,0 +1,11 @@
+.hoverDownload-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 153px;
+  height: 130px;
+  text-align: center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+  border: 1.3px solid #E7E7E7;
+  border-radius: 6.5px;
+}

@@ -1,0 +1,351 @@
+body {
+  /* background-color: #fbfbfb; */
+  font-family: 'Source Sans Pro'!important ;
+  overflow-x: hidden;
+
+}
+
+.Box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.appHeaderLogo{
+  cursor: pointer;
+}
+.inputDataAdded {
+  border-color: #e7e7e7 !important;
+}
+
+.noShowIcon {
+  display: none !important;
+}
+
+.text_label {
+  font-weight: 500;
+  font-size: 14px;
+  color: #707070;
+  font-family: 'Source Sans Pro';
+  display: flex;
+  justify-content: space-between;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  align-items: center;
+}
+
+.addForm_label {
+  font-weight: 500;
+  font-size: 14px;
+  color: #2c2c2c;
+  font-family: 'Source Sans Pro';
+  line-height: 20px;
+  letter-spacing: 0.10000000149011612px;
+}
+
+.addProductCameraIconBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 20px;
+  width: 84px;
+  height: 84px;
+  background: #fbfbfb;
+  border: 1px dashed #bebebe;
+  border-radius: 8px;
+}
+
+.addProductCameraIcon {
+  height: 18px;
+  width: 20px;
+  left: 2px;
+  top: 2px;
+  border-radius: 0px;
+  background: #e7e7e7;
+}
+
+.Button {
+  background-color: #31a246;
+}
+
+.logo {
+  width: 200.13px;
+  height: 20.92px;
+}
+
+.error_messge {
+  width: fit-content;
+  height: 16px;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 16px;
+  color: #de3730;
+  padding-top: 4px;
+  margin-bottom: -10px;
+}
+
+@media screen and (max-width: 763px) {
+  .registerSelect {
+    margin-top: 20px !important;
+  }
+  .formHeaderText {
+    font-weight: 500;
+    font-size: 20px;
+  }
+
+  .formHeaderSmallText {
+    /* font-weight: 400; */
+    font-size: 16px;
+    width: 248px;
+  }
+}
+.mainDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fbfbfb;
+}
+.formBox {
+  /* position: absolute; */
+  /* height: 716px; */
+  height: 100%;
+  width: 508px;
+  margin-bottom: 45px;
+  border-radius: 5px;
+  padding: 54px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1)
+  ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 54px;
+  gap: 24px;
+  margin-top: 74px;
+  background-color: white;
+}
+.addProductFormBox {
+  /* position: absolute; */
+  /* height: 716px; */
+  height: 100%;
+  /* width: 508px; */
+
+  padding: 54px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 54px; */
+  gap: 24px;
+  margin-top: 141px;
+  background-color: white;
+}
+
+.formHeader {
+  height: 68px;
+  /* width: 218px; */
+
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+}
+
+.formHeaderSubtitle {
+  height: 36px;
+
+  border-radius: 0px;
+  font-family: 'Source Sans Pro';
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #2c2c2c;
+  text-align: center;
+}
+
+.formHeaderTitle {
+  /* height: 24px;
+  width: 218px; */
+  /* left: 0px;
+  top: 44px; */
+  border-radius: 0px;
+  color: #707070;
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputsTextBoxesDiv {
+  /* height: 412px; */
+  width: 400px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+}
+
+.singleTextBoxDiv {
+  height: auto;
+  width: 400px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  /* gap: 8px; */
+}
+
+.noDisplay {
+  display: none;
+}
+.errorImgBorder{
+  border: 1px dashed #DE3730 !important;
+}
+.twoSelectBoxDiv {
+  height: auto;
+  /* width: 100%; */
+  width: 400px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+}
+.goBackIcon {
+  width: 32px;
+  height: 32px;
+  padding:  4px;
+  border-radius: 5px;
+}
+
+.setProjectBg{
+  height: 100vh;
+  background: #fbfbfb;
+}
+@media screen and (min-width: 570px) {
+  .formBox {
+    /* position: absolute; */
+    /* height: 716px; */
+    height: 100%;
+    width: 508px;
+    margin-bottom: 45px;
+    border-radius: 5px;
+    padding: 54px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 54px; */
+    gap: 24px;
+    margin-top: 141px;
+  }
+  .addProductFormBox {
+    /* position: absolute; */
+    /* height: 716px; */
+    height: 100%;
+    /* width: 508px; */
+
+    padding: 54px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 54px; */
+    gap: 24px;
+    margin-top: 141px;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .navclass{
+    display: none;
+  }
+  .formBox {
+    /* height: 716px; */
+    height: 100%;
+
+    margin-bottom: 33px;
+    /* margin-top: 89px; */
+    border-radius: 5px;
+
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+    /* width: 288px; */
+    /* height: 512px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 48px 16px;
+    margin: 90px 16px;
+  }
+  .addProductFormBox {
+    /* position: absolute; */
+    /* height: 716px; */
+    height: 100%;
+    /* width: 508px; */
+
+    padding: 54px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 54px; */
+    gap: 24px;
+    margin-top: 141px;
+  }
+
+  .twoSelectBoxDiv {
+    /* height: 68px;
+     */
+    height: auto;
+    width: 100%;
+    /* width: 400px; */
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+  }
+  .inputsTextBoxesDiv {
+    width: 100%;
+  }
+  .singleTextBoxDiv {
+    width: 100%;
+  }
+
+  .addProductCameraIconBox {
+    width: 58px;
+    height: 58px;
+  }
+
+  .addProductMobileStyleDiv {
+    position: fixed;
+    bottom: 12px;
+    left: 16px;
+    right: 16px;
+    width: auto;
+    height: 44px;
+  }
+}
